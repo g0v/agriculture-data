@@ -4,10 +4,10 @@ var streamy = require('streamy-data'),
 	hp = streamy.util.htmlparser,
 	hpu = hp.DomUtils;
 
-var pesticideLicensesUrl = 
-	'http://m.coa.gov.tw/OpenData/PesticideData.aspx',
-	pesticideEntryUrlPrefix = 
-	'http://pesticide.baphiq.gov.tw/web/Insecticides_MenuItem5_3_UseRange.aspx?id=';
+var pesticideLicensesUrl =
+  'http://data.coa.gov.tw/Service/OpenData/FromM/PesticideData.aspx';
+var pesticideEntryUrlPrefix =
+  'http://data.coa.gov.tw/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=';
 
 var downloadLicenses = function (callback) {
 	streamy.util.request(pesticideLicensesUrl, function (err, res, body) {
@@ -68,6 +68,7 @@ var _parseEntryResponse = function (data, body) {
 var downloadlEntry = function (data, callback) {
 	var url = pesticideEntryUrlPrefix + data;
 	streamy.util.request(url, function (err, res, body) {
+    console.log(err, body);
 		callback(err, !err && _parseEntryResponse(data, body));
 	});
 };
@@ -78,7 +79,7 @@ var buildIndexFromLicenses = function (licenses) {
 	// collect id and name from license entries
 	var m = {}, id, name;
 	licenses.forEach(function (lic) {
-		id = lic['農藥代號'];
+		id = lic['許可證號'];
 		name = lic['中文名稱'];
 		if (!id) {
 			console.log('License entry missing id: ' + lic);
