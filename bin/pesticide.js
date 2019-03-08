@@ -8,6 +8,8 @@ var pesticideLicensesUrl =
   'http://data.coa.gov.tw/Service/OpenData/FromM/PesticideData.aspx';
 var pesticideEntryUrlPrefix =
   'http://data.coa.gov.tw/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=';
+var pesticideUsageUrlPrefix =
+  'http://data.coa.gov.tw/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=';
 
 var downloadLicenses = function (callback) {
 	streamy.util.request(pesticideLicensesUrl, function (err, res, body) {
@@ -73,6 +75,13 @@ var downloadlEntry = function (data, callback) {
 	});
 };
 
+var downloadUsage = function (data, callback) {
+  var url = pesticideUsageUrlPrefix + data;
+  streamy.util.request(url, function (err, res, body) {
+    callback(err, !err && body);
+  });
+};
+
 
 
 var buildIndexFromLicenses = function (licenses) {
@@ -116,7 +125,8 @@ var buildIndexFromLicenses = function (licenses) {
 module.exports = {
 	download: {
 		licenses: downloadLicenses,
-		entry: downloadlEntry
+		entry: downloadlEntry,
+    usage: downloadUsage
 	},
 	build: {
 		indexFromLicenses: buildIndexFromLicenses

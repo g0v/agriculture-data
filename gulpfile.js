@@ -2,6 +2,7 @@
 /* global require, console, Buffer */
 var streamy = require('streamy-data'),
 	pesticide = require('./bin/pesticide'),
+  PC = require('./bin/pesticide2'),
 	util = require('./bin/util'),
 	clone = util.clone,
 	copyIfAbsent = util.copyIfAbsent,
@@ -10,7 +11,9 @@ var streamy = require('streamy-data'),
 	gulp = require('gulp'),
 	File = require('vinyl'),
 	async = require('async'),
-	fs = require('fs');
+	fs = require('fs'),
+  fsx = require('fs-extra'),
+  r = require('ramda');
 
 Error.stackTraceLimit = Infinity;
 
@@ -18,60 +21,100 @@ gulp.task('data.download', [
 	'data.download.pesticide'
 ]);
 
+function writeUsages(ids) {
+  return new Promise(function (resolve, reject) {
+    streamy.array(ids)
+      // transform them into detailed data object from the website
+      .pipe(streamy.map(pesticide.download.usage))
+      // transform them into vinyl file format (to work with gulp.dest)
+      .pipe(streamy.file.vinylify(function (data) {
+        return './' + data.id + '.json';
+      }, {
+        stringify: { space: '\t' }
+      }))
+      // write file to specified destination
+      .pipe(gulp.dest('./_raw/download/pesticide/usages'))
+      .on('data', function () {})
+      .on('end', function (err, res) {
+        if (err) {
+          return reject(err);
+        }
+        return resolve(res);
+      });
+  });
+}
+
+/* Utility functions for task: data.download.pesticide
+ */
+function delay(time) {
+  return function(value) {
+    return new Promise(resolve => setTimeout(resolve, time, value));
+  }
+}
+
+function saveLicenses(licenses) {
+  fsx.writeJson(
+    './_raw/download/pesticide/licenses.json',
+    licenses,
+    { spaces: '  ' }
+  );
+  return licenses;
+}
+
+function saveEntry(entry) {
+  fsx.writeJson(
+    './_raw/download/pesticide/entries/' + entry.id + '.json',
+    entry,
+    { spaces: '  ' }
+  );
+  return entry;
+}
+
+function toIndexItem(entry) {
+  return {
+    id: entry.id,
+    name: entry[PC.entryNameKey]
+  };
+}
+
+function saveIndex(items) {
+  fsx.writeJson(
+    './_raw/download/pesticide/index.json',
+    items,
+    { spaces: '  ' }
+  );
+  return items;
+}
+
 /* This task shall write the following files:
- * + /_raw/download/licenses.json
- * + /_raw/download/index.json
- * + /_raw/download/entries/{id}.json
+ * + /_raw/download/pesticide/licenses.json
+ * + /_raw/download/pesticide/index.json
+ * + /_raw/download/pesticide/entries/{id}.json
  */
 /* jshint asi: true */
 gulp.task('data.download.pesticide', function (callback) {
 
-	// TODO: clear
-
-	// grab index json data from the website
-	pesticide.download.licenses(function (licenses) {
-
-		// TODO: use mkdirp or writefile
-		console.log('license file downloaded.');
-
-		var index = pesticide.build.indexFromLicenses(licenses),
-			ids = index.map(function (data) { return data.id });
-
-		async.parallel([
-			function (cb) {
-				// write licenses file
-				fs.writeFile('./_raw/download/pesticide/licenses.json',
-					JSON.stringify(licenses, null, '\t'), cb); // end 1
-			},
-			function (cb) {
-				/* Write index file. We could have deferred this part to
-				 * building phase, but this will make everything easier.
-				 */
-				fs.writeFile('./_raw/download/pesticide/index.json',
-					JSON.stringify(index, null, '\t'), cb); // end 2
-			},
-			function (cb) {
-				// transform the index list into an object stream
-				streamy.array(ids)
-					// transform them into detailed data object from the website
-					.pipe(streamy.map(pesticide.download.entry))
-					// transform them into vinyl file format (to work with gulp.dest)
-					.pipe(streamy.file.vinylify(function (data) {
-						return './' + data.id + '.json';
-					}, {
-						stringify: { space: '\t' }
-					}))
-					// write file to specified destination
-					.pipe(gulp.dest('./_raw/download/pesticide/entries'))
-					.on('data', function () {})
-					.on('end', cb); // end 3
-			}
-		],
-		function () {
-			callback();
-		});
-
-	});
+  PC.getLicenses()
+    .then(saveLicenses)
+    .then(PC.groupByCodenames)
+    .then(async codenameMap => {
+      let items = [];
+      for (let id of Object.keys(codenameMap)) {
+        const licenses = codenameMap[id];
+        try {
+          const item = await PC.createEntry(id, licenses)
+            .then(delay(500))
+            .then(saveEntry)
+            .then(toIndexItem);
+          console.log(item.name);
+          items.push(item);
+        } catch (e) {
+          console.error(e);
+          console.log('missing usages: ' + id);
+        }
+      }
+      saveIndex(items);
+    })
 
 });
 
@@ -118,6 +161,7 @@ gulp.task('data.build.pesticide', function (callback) {
 				licenses = JSON.parse(data[1]),
 				moaObj = moa(data[2]),
 				m = {},
+        mm = {},
 				usageSearchData = {};
 
 			// initialize entry objects
@@ -130,6 +174,7 @@ gulp.task('data.build.pesticide', function (callback) {
 				function (cb) {
 					fs.writeFile('./_data/pesticide/list.json', data[0], cb);
 				},
+        // XXX: ???
 				function (cb) {
 					streamy.array(index.slice(0)) // TODO: stream array bug
 						.pipe(streamy.map.sync(function (data) {
@@ -146,28 +191,50 @@ gulp.task('data.build.pesticide', function (callback) {
 					var usages = usageSearchData.usages = [],
 						pesticideMap = usageSearchData.pesticides = {},
 						id, entry;
+          var codenameMap = {};
+          var pids;
 
 					usageSearchData.corpMap = {};
 
-					// include information from license data
-					licenses.forEach(function (lic) {
-						id = lic['農藥代號'];
-						entry = m[id];
+          licenses.forEach(function (lic) {
+            var id = lic['農藥代號'];
+            if (!codenameMap[id]) {
+              codenameMap[id] = [];
+            }
+            codenameMap[id].push(lic);
+          });
+          pids = Object.keys(codenameMap).sort();
+          // interface NewEntry {
+          //   id: string;
+          //   name: string;
+          //   '英文名稱': string;
+          //   '作用機制': string;
+          //   '廠牌名稱': string;
+          //   '通過日期': string;
+          //   licenses: License[];
+          //   usages: NewUsage[];
+          // }
+          pids.forEach(function (pid) {
+            mm[pid] = mm[pid] || {};
+            entry = mm[pid];
 
-						copyIfAbsent(entry, lic, '英文名稱');
-						// the composition ratio might be different per license
-						//copyIfAbsent(entry, lic, '化學成分');
+            entry.id = pid;
+            entry.licenses = codenameMap[pid];
+            entry.usages = [];
 
-						entry.licenses.push({
-							'許可證號': lic['許可證號'],
-							'化學成分': lic['化學成分'],
-							'廠牌名稱': lic['廠牌名稱'],
-							'國外原製造廠商': lic['國外原製造廠商'],
-							'有效期限': lic['有效期限'],
-							'廠商名稱': lic['廠商名稱']
-						});
+            entry.licenses.forEach(function (lic) {
+              id = lic['許可證號'];
 
-					});
+              if (!m[id]['中文名稱']) {
+                throw new Error('missing name:', lic);
+              }
+              entry.name = m[id]['中文名稱'];
+						  copyIfAbsent(entry, lic, '英文名稱');
+						  copyIfAbsent(entry, lic, '廠牌名稱');
+              // XXX: missing from the new source
+              entry['通過日期'] = '';
+            });
+          });
 
 					// collect pesticide search: pesticide entries
 					index.forEach(function (entry) {
@@ -192,6 +259,7 @@ gulp.task('data.build.pesticide', function (callback) {
 							//console.log(data.id);
 							//console.log(m[data.id]);
 							var entry = m[data.id];
+              entry = mm[entry['農藥代號']];
 							if (!entry) return;
 
 							var record = moaObj[unorm.nfc(entry.name)];
@@ -211,7 +279,7 @@ gulp.task('data.build.pesticide', function (callback) {
 								entry = data
 							} else {
 								copyIfAbsent(entry, data, '廠牌名稱');
-								copyIfAbsent(entry, data, '通過日期');
+								copyIfAbsent(entry, data, '有效期限');
 								copyIfAbsent(entry, data, 'usages');
 							}
 
