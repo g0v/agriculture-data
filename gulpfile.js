@@ -161,7 +161,6 @@ gulp.task('data.build.pesticide', function (callback) {
 				licenses = JSON.parse(data[1]),
 				moaObj = moa(data[2]),
 				m = {},
-        mm = {},
 				usageSearchData = {};
 
 			// initialize entry objects
@@ -174,7 +173,6 @@ gulp.task('data.build.pesticide', function (callback) {
 				function (cb) {
 					fs.writeFile('./_data/pesticide/list.json', data[0], cb);
 				},
-        // XXX: ???
 				function (cb) {
 					streamy.array(index.slice(0)) // TODO: stream array bug
 						.pipe(streamy.map.sync(function (data) {
@@ -191,49 +189,27 @@ gulp.task('data.build.pesticide', function (callback) {
 					var usages = usageSearchData.usages = [],
 						pesticideMap = usageSearchData.pesticides = {},
 						id, entry;
-          var codenameMap = {};
-          var pids;
 
 					usageSearchData.corpMap = {};
 
-          licenses.forEach(function (lic) {
-            var id = lic['農藥代號'];
-            if (!codenameMap[id]) {
-              codenameMap[id] = [];
-            }
-            codenameMap[id].push(lic);
-          });
-          pids = Object.keys(codenameMap).sort();
-          // interface NewEntry {
-          //   id: string;
-          //   name: string;
-          //   '英文名稱': string;
-          //   '作用機制': string;
-          //   '廠牌名稱': string;
-          //   '通過日期': string;
-          //   licenses: License[];
-          //   usages: NewUsage[];
-          // }
-          pids.forEach(function (pid) {
-            mm[pid] = mm[pid] || {};
-            entry = mm[pid];
+          // include information from license data
+          licenses.forEach(function(lic) {
+            id = lic['農藥代號'];
+            entry = m[id];
 
-            entry.id = pid;
-            entry.licenses = codenameMap[pid];
-            entry.usages = [];
+            copyIfAbsent(entry, lic, '英文名稱');
+            // the composition ratio might be different per license
+            //copyIfAbsent(entry, lic, '化學成分');
 
-            entry.licenses.forEach(function (lic) {
-              id = lic['許可證號'];
-
-              if (!m[id]['中文名稱']) {
-                throw new Error('missing name:', lic);
-              }
-              entry.name = m[id]['中文名稱'];
-						  copyIfAbsent(entry, lic, '英文名稱');
-						  copyIfAbsent(entry, lic, '廠牌名稱');
-              // XXX: missing from the new source
-              entry['通過日期'] = '';
+            entry.licenses.push({
+              '許可證號': lic['許可證號'],
+              '化學成分': lic['化學成分'],
+              '廠牌名稱': lic['廠牌名稱'],
+              '國外原製造廠商': lic['國外原製造廠商'],
+              '有效期限': lic['有效期限'],
+              '廠商名稱': lic['廠商名稱']
             });
+
           });
 
 					// collect pesticide search: pesticide entries
@@ -259,7 +235,6 @@ gulp.task('data.build.pesticide', function (callback) {
 							//console.log(data.id);
 							//console.log(m[data.id]);
 							var entry = m[data.id];
-              entry = mm[entry['農藥代號']];
 							if (!entry) return;
 
 							var record = moaObj[unorm.nfc(entry.name)];
@@ -279,7 +254,7 @@ gulp.task('data.build.pesticide', function (callback) {
 								entry = data
 							} else {
 								copyIfAbsent(entry, data, '廠牌名稱');
-								copyIfAbsent(entry, data, '有效期限');
+								copyIfAbsent(entry, data, '通過日期');
 								copyIfAbsent(entry, data, 'usages');
 							}
 
