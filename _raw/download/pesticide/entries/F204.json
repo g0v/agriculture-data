@@ -1,6 +1,22 @@
 {
-	"id": "F204",
-	"普通名稱": "富米綜",
-	"通過日期": "083-01-26",
-	"usages": []
+  "id": "F204",
+  "普通名稱": "富米綜",
+  "廠牌名稱": null,
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥原進",
+      "許可證號": "00555",
+      "中文名稱": "富米綜",
+      "農藥代號": "F204",
+      "英文名稱": "FERIMZONE",
+      "廠牌名稱": null,
+      "化學成分": "(Z)-2’-methylacetophenone 4,6-dimethylpyrimidin-2-ylhydrazone",
+      "國外原製造廠商": "SUMITOMO CHEMICAL CO., LTD. OITA WORKS",
+      "有效期限": "109/03/30",
+      "廠商名稱": "台灣住友化學股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00555"
+    }
+  ],
+  "usages": []
 }

@@ -6,30 +6,22 @@
 			"許可證號": "00208",
 			"化學成分": "(1) 2-ISOPROPYLPHENYL METHYLCARBAMATE.....2% (2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE .....2%",
 			"廠牌名稱": "雙特殺",
-			"國外原製造廠商": "",
+			"國外原製造廠商": null,
 			"有效期限": "108/01/07",
 			"廠商名稱": "洽益化學股份有限公司"
 		},
 		{
-			"許可證號": "01036",
-			"化學成分": "(1) 2-ISOPROPYLPHENYL METHYLCARBAMATE.....2% (2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE .....2%",
-			"廠牌名稱": "",
-			"國外原製造廠商": "",
-			"有效期限": "103/07/30",
-			"廠商名稱": "國豐化學工業股份有限公司"
-		},
-		{
 			"許可證號": "01858",
 			"化學成分": "(1) 2-ISOPROPYLPHENYL METHYLCARBAMATE.....2% (2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE .....2%",
-			"廠牌名稱": "",
-			"國外原製造廠商": "",
+			"廠牌名稱": null,
+			"國外原製造廠商": null,
 			"有效期限": "109/01/30",
 			"廠商名稱": "安旺特股份有限公司"
 		}
 	],
 	"英文名稱": "MIPC + BPMC",
 	"作用機制": "-",
-	"廠牌名稱": "MIPBASSA",
-	"通過日期": "074-06-01",
+	"廠牌名稱": "雙特殺",
+	"通過日期": null,
 	"usages": []
 }

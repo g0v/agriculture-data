@@ -1,0 +1,32 @@
+{
+  "id": "P040",
+  "普通名稱": "茉莉酸丙酯",
+  "廠牌名稱": "魔力酸",
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥進",
+      "許可證號": "02606",
+      "中文名稱": "茉莉酸丙酯",
+      "農藥代號": "P040",
+      "英文名稱": "PROHYDROJASMON",
+      "廠牌名稱": "魔力酸",
+      "化學成分": "propyl (1RS,2RS)-(3-oxo-2-pentylcyclopentyl)acetate containing 10±2% propyl (1RS,2SR)-(3-oxo-2-pentylcyclopentyl)acetate",
+      "國外原製造廠商": "SANKEI CHEMICAL CO., LTD. FUKAYA WORKSHOP",
+      "有效期限": "111/11/18",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02606"
+    }
+  ],
+  "usages": [
+    {
+      "作物名稱": "葡萄",
+      "病蟲害名稱": "促進果實著色",
+      "每公頃使用用藥量": "-",
+      "稀釋倍數": "1000",
+      "使用時期": "滿花後25-30日(硬核期)",
+      "施藥間隔": "日",
+      "安全採收期": "3日"
+    }
+  ]
+}

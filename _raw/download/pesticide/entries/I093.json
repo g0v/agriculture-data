@@ -1,26 +1,110 @@
 {
-	"id": "I093",
-	"普通名稱": "益丁滅蝨",
-	"廠牌名稱": "IMIBASSA",
-	"通過日期": "074-06-01",
-	"usages": [
-		{
-			"劑型": "EC",
-			"含量": "50.000",
-			"混合": "A",
-			"作物名稱": "水稻",
-			"病蟲名稱": "褐飛蝨",
-			"每公頃每次用量": "1.2公升",
-			"稀釋倍數": "1000",
-			"使用時期": "分蘗期",
-			"施藥間隔": "7-10",
-			"施用次數": "-",
-			"安全採收期": "15",
-			"核准日期": "",
-			"原始登記廠商名稱": "",
-			"施藥方法": "",
-			"注意事項": "水稻生長期如發現每叢水稻平均密度在五隻以上,即行施藥",
-			"備註": ""
-		}
-	]
+  "id": "I093",
+  "普通名稱": "益丁滅蝨",
+  "廠牌名稱": "滿意冬",
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥製",
+      "許可證號": "00925",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "滿意冬",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "108/07/02",
+      "廠商名稱": "臺益工業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00925"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "01850",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": null,
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "109/01/30",
+      "廠商名稱": "惠光股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01850"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02001",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "嘉益蝨",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "109/03/06",
+      "廠商名稱": "嘉農企業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02001"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02445",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "包富靈",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "109/08/26",
+      "廠商名稱": "利台化學工業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02445"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02460",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "總滅",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "110/08/26",
+      "廠商名稱": "正農化學股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02460"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02495",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "保滅蝨精",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "109/08/28",
+      "廠商名稱": "東和化學企業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02495"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02564",
+      "中文名稱": "益丁滅蝨",
+      "農藥代號": "I093",
+      "英文名稱": "PHOSMET + FENOBUCARB",
+      "廠牌名稱": "益蝨靈",
+      "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
+      "國外原製造廠商": null,
+      "有效期限": "109/09/19",
+      "廠商名稱": "龍燈生物科技股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02564"
+    }
+  ],
+  "usages": [
+    {
+      "作物名稱": "水稻",
+      "病蟲害名稱": "褐飛蝨",
+      "每公頃使用用藥量": "1.2公升",
+      "稀釋倍數": "1000",
+      "使用時期": "分蘗期",
+      "施藥間隔": "7-10日",
+      "安全採收期": "15日"
+    }
+  ]
 }

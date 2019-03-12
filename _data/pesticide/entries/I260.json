@@ -4,20 +4,35 @@
 	"licenses": [
 		{
 			"許可證號": "02790",
-			"化學成分": "(1) (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate...25%(2) 1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine...50%",
+			"化學成分": "(1) (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate...25%\r\n(2) 1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine...50%",
 			"廠牌名稱": "叫小賀",
 			"國外原製造廠商": "BAYER CROPSCIENCE LIMITED",
-			"有效期限": "105/04/14",
+			"有效期限": "110/04/14",
 			"廠商名稱": "台灣拜耳股份有限公司"
-		},
-		{
-			"許可證號": "05621",
-			"化學成分": "(1) (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate...7%(2) 1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine...30%",
-			"廠牌名稱": "賺大錢",
-			"國外原製造廠商": "",
-			"有效期限": "107/01/01",
-			"廠商名稱": "大成化學工業股份有限公司"
 		}
 	],
-	"英文名稱": "DELTAMETHRIN + IMIDACLOPRID"
+	"英文名稱": "DELTAMETHRIN + IMIDACLOPRID",
+	"作用機制": "-",
+	"廠牌名稱": "叫小賀",
+	"通過日期": null,
+	"usages": [
+		{
+			"作物名稱": "蓮霧",
+			"病蟲害名稱": "小綠葉蟬",
+			"每公頃使用用藥量": "0.15-0.2公斤",
+			"稀釋倍數": "10000",
+			"使用時期": "害蟲發生時開始施藥",
+			"施藥間隔": "7日",
+			"安全採收期": "25日"
+		},
+		{
+			"作物名稱": "檬果",
+			"病蟲害名稱": "葉蟬類",
+			"每公頃使用用藥量": "0.15-0.2公斤",
+			"稀釋倍數": "10000",
+			"使用時期": "抽穗及開花期害蟲發生時開始施藥",
+			"施藥間隔": "7日",
+			"安全採收期": "6日"
+		}
+	]
 }

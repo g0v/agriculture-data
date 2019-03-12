@@ -1,7 +1,48 @@
 {
-	"id": "I005",
-	"普通名稱": "二硫松",
-	"廠牌名稱": "DISYSTON",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "I005",
+  "普通名稱": "二硫松",
+  "廠牌名稱": "大神松",
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥製",
+      "許可證號": "00428",
+      "中文名稱": "二硫松",
+      "農藥代號": "I005",
+      "英文名稱": "DISULFOTON",
+      "廠牌名稱": "大神松",
+      "化學成分": "O, O-DIETHYL-S-(2-(ETHYLTHIO)-ETHYL) PHOSPHORODITHIOATE",
+      "國外原製造廠商": null,
+      "有效期限": "103/08/31",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00428"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "01285",
+      "中文名稱": "二硫松",
+      "農藥代號": "I005",
+      "英文名稱": "DISULFOTON",
+      "廠牌名稱": "快滅樂",
+      "化學成分": "O, O-DIETHYL-S-(2-(ETHYLTHIO)-ETHYL) PHOSPHORODITHIOATE",
+      "國外原製造廠商": null,
+      "有效期限": "103/09/26",
+      "廠商名稱": "台灣省農會附設各級農會農化廠",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01285"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02472",
+      "中文名稱": "二硫松",
+      "農藥代號": "I005",
+      "英文名稱": "DISULFOTON",
+      "廠牌名稱": "大億松",
+      "化學成分": "O, O-DIETHYL-S-(2-(ETHYLTHIO)-ETHYL) PHOSPHORODITHIOATE",
+      "國外原製造廠商": null,
+      "有效期限": "104/08/28",
+      "廠商名稱": "南億企業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02472"
+    }
+  ],
+  "usages": []
 }

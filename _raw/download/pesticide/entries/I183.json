@@ -1,7 +1,35 @@
 {
-	"id": "I183",
-	"普通名稱": "叔丁基滅必蝨",
-	"廠牌名稱": "HOKBAL",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "I183",
+  "普通名稱": "叔丁基滅必蝨",
+  "廠牌名稱": null,
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00012",
+      "中文名稱": "叔丁基滅必蝨",
+      "農藥代號": "I183",
+      "英文名稱": "TERT-FENOBUCARB",
+      "廠牌名稱": null,
+      "化學成分": "3-TERT-BUTYLPHENYL-N-METHYLCARBAMATE",
+      "國外原製造廠商": null,
+      "有效期限": "113/01/07",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00012"
+    },
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00067",
+      "中文名稱": "叔丁基滅必蝨",
+      "農藥代號": "I183",
+      "英文名稱": "TERT-FENOBUCARB",
+      "廠牌名稱": null,
+      "化學成分": "3-TERT-BUTYLPHENYL-N-METHYLCARBAMATE",
+      "國外原製造廠商": null,
+      "有效期限": "110/02/21",
+      "廠商名稱": "三晃股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00067"
+    }
+  ],
+  "usages": []
 }

@@ -1,7 +1,35 @@
 {
-	"id": "I179",
-	"普通名稱": "雙必蝨",
-	"廠牌名稱": "MIPBASSA",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "I179",
+  "普通名稱": "雙必蝨",
+  "廠牌名稱": "雙特殺",
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥製",
+      "許可證號": "00208",
+      "中文名稱": "雙必蝨",
+      "農藥代號": "I179",
+      "英文名稱": "MIPC + BPMC",
+      "廠牌名稱": "雙特殺",
+      "化學成分": "(1) 2-ISOPROPYLPHENYL METHYLCARBAMATE.....2% (2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE .....2%",
+      "國外原製造廠商": null,
+      "有效期限": "108/01/07",
+      "廠商名稱": "洽益化學股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00208"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "01858",
+      "中文名稱": "雙必蝨",
+      "農藥代號": "I179",
+      "英文名稱": "MIPC + BPMC",
+      "廠牌名稱": null,
+      "化學成分": "(1) 2-ISOPROPYLPHENYL METHYLCARBAMATE.....2% (2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE .....2%",
+      "國外原製造廠商": null,
+      "有效期限": "109/01/30",
+      "廠商名稱": "安旺特股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01858"
+    }
+  ],
+  "usages": []
 }

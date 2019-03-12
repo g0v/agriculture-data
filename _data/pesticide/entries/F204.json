@@ -5,7 +5,7 @@
 		{
 			"許可證號": "00555",
 			"化學成分": "(Z)-2’-methylacetophenone 4,6-dimethylpyrimidin-2-ylhydrazone",
-			"廠牌名稱": "",
+			"廠牌名稱": null,
 			"國外原製造廠商": "SUMITOMO CHEMICAL CO., LTD. OITA WORKS",
 			"有效期限": "109/03/30",
 			"廠商名稱": "台灣住友化學股份有限公司"
@@ -13,6 +13,7 @@
 	],
 	"英文名稱": "FERIMZONE",
 	"作用機制": "[FRAC] 29, C5",
-	"通過日期": "083-01-26",
+	"廠牌名稱": null,
+	"通過日期": null,
 	"usages": []
 }

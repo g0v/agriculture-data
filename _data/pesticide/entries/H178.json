@@ -6,10 +6,24 @@
 			"許可證號": "02748",
 			"化學成分": "methyl 3-chloro-5-(4,6-dimethoxypyrimidin-2-ylcarbamoylsulfamoyl)-1-methylpyrazole-4-carboxylate",
 			"廠牌名稱": "邁草心",
-			"國外原製造廠商": "NISSAN CHEMICAL INDUSTRIES LTD.",
-			"有效期限": "104/06/01",
+			"國外原製造廠商": "NISSAN CHEMICAL CORPORATION",
+			"有效期限": "109/06/01",
 			"廠商名稱": "興農股份有限公司"
 		}
 	],
-	"英文名稱": "HALOSULFURON-METHYL"
+	"英文名稱": "HALOSULFURON-METHYL",
+	"作用機制": "[HRAC] B",
+	"廠牌名稱": "邁草心",
+	"通過日期": null,
+	"usages": [
+		{
+			"作物名稱": "草皮",
+			"病蟲害名稱": "雜草",
+			"每公頃使用用藥量": "0.3公斤",
+			"稀釋倍數": "1500公升",
+			"使用時期": "雜草生育初期",
+			"施藥間隔": "-日",
+			"安全採收期": "-日"
+		}
+	]
 }

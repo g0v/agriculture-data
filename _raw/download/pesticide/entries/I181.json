@@ -1,7 +1,100 @@
 {
-	"id": "I181",
-	"普通名稱": "雙特氯松",
-	"廠牌名稱": "BIDRIN-DIP",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "I181",
+  "普通名稱": "雙特氯松",
+  "廠牌名稱": "愉萬龍",
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥製",
+      "許可證號": "00272",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "愉萬龍",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "103/07/05",
+      "廠商名稱": "富農化學工業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00272"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "00909",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "雙寶",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "103/07/01",
+      "廠商名稱": "惠光股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00909"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "01936",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "雙特靈",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "104/04/27",
+      "廠商名稱": "龍燈生物科技股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01936"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02130",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "億靈",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "104/07/01",
+      "廠商名稱": "利臺化學工業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02130"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02339",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "全利松",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "104/08/22",
+      "廠商名稱": "華夏科學農化股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02339"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02367",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": null,
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "104/12/30",
+      "廠商名稱": "嘉農企業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02367"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02781",
+      "中文名稱": "雙特氯松",
+      "農藥代號": "I181",
+      "英文名稱": "DICROTOPHOS + TRICHLORFON",
+      "廠牌名稱": "雙倍能",
+      "化學成分": "(1)3-dimethoxyphosphinoyloxy-N,N-dimethylisocrotonamide...25%                                       \n(2)dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate...25%                                       \n                                                            \n",
+      "國外原製造廠商": null,
+      "有效期限": "105/06/27",
+      "廠商名稱": "南億企業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02781"
+    }
+  ],
+  "usages": []
 }

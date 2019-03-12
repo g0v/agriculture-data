@@ -1,6 +1,61 @@
 {
-	"id": "H026",
-	"普通名稱": "巴拉刈二氯鹽",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "H026",
+  "普通名稱": "巴拉刈二氯鹽",
+  "廠牌名稱": null,
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00053",
+      "中文名稱": "巴拉刈二氯鹽",
+      "農藥代號": "H026",
+      "英文名稱": "PARAQUAT DICHLORIDE",
+      "廠牌名稱": null,
+      "化學成分": "1,1’-dimethyl-4,4’-bipyridylium dichloride",
+      "國外原製造廠商": null,
+      "有效期限": "110/01/25",
+      "廠商名稱": "功力化學工業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00053"
+    },
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00123",
+      "中文名稱": "巴拉刈二氯鹽",
+      "農藥代號": "H026",
+      "英文名稱": "PARAQUAT DICHLORIDE",
+      "廠牌名稱": null,
+      "化學成分": "1,1’-dimethyl-4,4’-bipyridylium dichloride",
+      "國外原製造廠商": null,
+      "有效期限": "112/07/25",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00123"
+    },
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00136",
+      "中文名稱": "巴拉刈二氯鹽",
+      "農藥代號": "H026",
+      "英文名稱": "PARAQUAT DICHLORIDE",
+      "廠牌名稱": null,
+      "化學成分": "1,1’-dimethyl-4,4’-bipyridylium dichloride",
+      "國外原製造廠商": null,
+      "有效期限": "109/04/30",
+      "廠商名稱": "三晃股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00136"
+    },
+    {
+      "許可證字": "農藥原進",
+      "許可證號": "00255",
+      "中文名稱": "巴拉刈二氯鹽",
+      "農藥代號": "H026",
+      "英文名稱": "PARAQUAT DICHLORIDE",
+      "廠牌名稱": null,
+      "化學成分": "1,1’-dimethyl-4,4’-bipyridylium dichloride",
+      "國外原製造廠商": "SYNGENTA LIMITED",
+      "有效期限": "110/10/07",
+      "廠商名稱": "台灣先正達股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00255"
+    }
+  ],
+  "usages": []
 }

@@ -1,6 +1,48 @@
 {
-	"id": "F031",
-	"普通名稱": "甲基砷酸鐵",
-	"通過日期": "074-06-01",
-	"usages": []
+  "id": "F031",
+  "普通名稱": "甲基砷酸鐵",
+  "廠牌名稱": null,
+  "通過日期": null,
+  "licenses": [
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00076",
+      "中文名稱": "甲基砷酸鐵",
+      "農藥代號": "F031",
+      "英文名稱": null,
+      "廠牌名稱": null,
+      "化學成分": "FERRIC METHYL ARSONATE",
+      "國外原製造廠商": null,
+      "有效期限": "110/08/23",
+      "廠商名稱": "惠大實業股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00076"
+    },
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00080",
+      "中文名稱": "甲基砷酸鐵",
+      "農藥代號": "F031",
+      "英文名稱": null,
+      "廠牌名稱": null,
+      "化學成分": "FERRIC METHYL ARSONATE",
+      "國外原製造廠商": null,
+      "有效期限": "110/10/02",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00080"
+    },
+    {
+      "許可證字": "農藥原製",
+      "許可證號": "00097",
+      "中文名稱": "甲基砷酸鐵",
+      "農藥代號": "F031",
+      "英文名稱": null,
+      "廠牌名稱": "新阿蘇仁",
+      "化學成分": "FERRIC METHYL ARSONATE",
+      "國外原製造廠商": null,
+      "有效期限": "110/10/11",
+      "廠商名稱": "臺灣庵原農藥股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00097"
+    }
+  ],
+  "usages": []
 }

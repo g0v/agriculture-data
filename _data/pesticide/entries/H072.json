@@ -4,7 +4,7 @@
 	"licenses": [
 		{
 			"許可證號": "00605",
-			"化學成分": "1-methylheptyl [(4-amino-3,5-dichloro-6-fluoro-2-pyridyl)oxy]acetate",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
 			"廠牌名稱": "進寶",
 			"國外原製造廠商": "DOW AGROSCIENCES S.A.S.",
 			"有效期限": "108/12/29",
@@ -12,51 +12,58 @@
 		},
 		{
 			"許可證號": "00801",
-			"化學成分": "1-methylheptyl [(4-amino-3,5-dichloro-6-fluoro-2-pyridyl)oxy]acetate",
-			"廠牌名稱": "",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
+			"廠牌名稱": null,
 			"國外原製造廠商": "LIER CHEMICAL CO., LTD.",
-			"有效期限": "108/04/15",
+			"有效期限": "113/04/15",
 			"廠商名稱": "興農股份有限公司"
 		},
 		{
+			"許可證號": "00974",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
+			"廠牌名稱": null,
+			"國外原製造廠商": "SHANDONG LUBA CHEMICAL CO., LTD",
+			"有效期限": "110/03/14",
+			"廠商名稱": "臺聯實業股份有限公司"
+		},
+		{
 			"許可證號": "01761",
-			"化學成分": "1-methylheptyl [(4-amino-3,5-dichloro-6-fluoro-2-pyridyl)oxy]acetate",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
 			"廠牌名稱": "進寶",
-			"國外原製造廠商": "DOW AGROSCIENCES S.A.S.",
-			"有效期限": "107/07/17",
+			"國外原製造廠商": "DOW AGROSCIENCES S. A. S.",
+			"有效期限": "112/07/17",
 			"廠商名稱": "台灣道禮股份有限公司"
 		},
 		{
 			"許可證號": "02205",
-			"化學成分": "1-methylheptyl [(4-amino-3,5-dichloro-6-fluoro-2-pyridyl)oxy]acetate",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
 			"廠牌名稱": "除藤草",
 			"國外原製造廠商": "ADAMA AGAN LTD.",
 			"有效期限": "109/10/21",
 			"廠商名稱": "聯利農業科技股份有限公司"
+		},
+		{
+			"許可證號": "02692",
+			"化學成分": "(RS)-1-methylheptyl 4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetate",
+			"廠牌名稱": "福祿比",
+			"國外原製造廠商": "ALFA (SAIGON) COMPANY LIMITED",
+			"有效期限": "113/06/09",
+			"廠商名稱": "雅飛有限公司"
 		}
 	],
 	"英文名稱": "FLUROXYPYR-MEPTYL",
 	"作用機制": "[HRAC] O",
-	"廠牌名稱": "STARANE",
-	"通過日期": "076-09-01",
+	"廠牌名稱": "進寶",
+	"通過日期": null,
 	"usages": [
 		{
-			"劑型": "EC",
-			"含量": "29.640",
-			"混合": "",
-			"作物名稱": "柑桔類果園",
-			"病蟲名稱": "雜草",
-			"每公頃每次用量": "1.5公升",
+			"作物名稱": "柑桔類",
+			"病蟲害名稱": "雜草",
+			"每公頃使用用藥量": "1.5公升",
 			"稀釋倍數": "700",
 			"使用時期": "",
-			"施藥間隔": "-",
-			"施用次數": "-",
-			"安全採收期": "-",
-			"核准日期": "-  -",
-			"原始登記廠商名稱": "",
-			"施藥方法": "將稀釋藥液均勻噴施於雜草上",
-			"注意事項": "不可噴到果樹以免發生藥害",
-			"備註": ""
+			"施藥間隔": "-日",
+			"安全採收期": "-日"
 		}
 	]
 }

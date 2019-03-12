@@ -4,77 +4,59 @@
 	"licenses": [
 		{
 			"許可證號": "00039",
-			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS        (THIOCARBAMATE)...3.5%                                    (2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
+			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS  \r\n      (THIOCARBAMATE)...3.5%                                    \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
 			"廠牌名稱": "倍豐丹",
-			"國外原製造廠商": "",
-			"有效期限": "107/10/17",
+			"國外原製造廠商": null,
+			"有效期限": "112/10/17",
 			"廠商名稱": "正農化學股份有限公司"
 		},
 		{
 			"許可證號": "01791",
-			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS        (THIOCARBAMATE)...3.5%                                    (2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
+			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS  \r\n      (THIOCARBAMATE)...3.5%                                    \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
 			"廠牌名稱": "稻必用",
-			"國外原製造廠商": "",
+			"國外原製造廠商": null,
 			"有效期限": "109/01/08",
 			"廠商名稱": "惠光股份有限公司"
 		},
 		{
 			"許可證號": "02466",
-			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS        (THIOCARBAMATE)...3.5%                                    (2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
+			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS  \r\n      (THIOCARBAMATE)...3.5%                                    \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
 			"廠牌名稱": "倍殺丹",
-			"國外原製造廠商": "",
+			"國外原製造廠商": null,
 			"有效期限": "109/08/28",
 			"廠商名稱": "興農股份有限公司"
 		},
 		{
 			"許可證號": "02518",
-			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS        (THIOCARBAMATE)...3.5%                                    (2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
+			"化學成分": "(1) S,S’-(2-DIMETHYLAMINOTRIMETHYLENE) BIS  \r\n      (THIOCARBAMATE)...3.5%                                    \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...3%",
 			"廠牌名稱": "巴米丹",
-			"國外原製造廠商": "",
+			"國外原製造廠商": null,
 			"有效期限": "109/11/04",
 			"廠商名稱": "立農化學股份有限公司"
 		}
 	],
 	"英文名稱": "CARTAP + MIPC",
 	"作用機制": "-",
-	"廠牌名稱": "MIPC-P",
-	"通過日期": "074-06-01",
+	"廠牌名稱": "倍豐丹",
+	"通過日期": null,
 	"usages": [
 		{
-			"劑型": "GR",
-			"含量": "6.500",
-			"混合": "A",
 			"作物名稱": "水稻",
-			"病蟲名稱": "瘤野螟",
-			"每公頃每次用量": "初25公斤:後期25",
+			"病蟲害名稱": "瘤野螟",
+			"每公頃使用用藥量": "初25公斤:後期25",
 			"稀釋倍數": "",
 			"使用時期": "",
-			"施藥間隔": "-",
-			"施用次數": "-",
-			"安全採收期": "10",
-			"核准日期": "",
-			"原始登記廠商名稱": "",
-			"施藥方法": "",
-			"注意事項": "成蟲發生盛期後10天發現捲葉率在20%以上開始施藥",
-			"備註": ""
+			"施藥間隔": "-日",
+			"安全採收期": "10日"
 		},
 		{
-			"劑型": "GR",
-			"含量": "6.500",
-			"混合": "A",
 			"作物名稱": "水稻",
-			"病蟲名稱": "二化螟蟲",
-			"每公頃每次用量": "25公斤",
+			"病蟲害名稱": "二化螟蟲",
+			"每公頃使用用藥量": "25公斤",
 			"稀釋倍數": "",
 			"使用時期": "",
-			"施藥間隔": "-",
-			"施用次數": "-",
-			"安全採收期": "40",
-			"核准日期": "",
-			"原始登記廠商名稱": "",
-			"施藥方法": "",
-			"注意事項": "應依各區農業改良場螟蟲發生預測資料,於幼蟲發生初期施藥1-2次;幼株期觀察稻株葉鞘變黃或田間水面有流葉、折葉等情形時,即行施藥",
-			"備註": ""
+			"施藥間隔": "-日",
+			"安全採收期": "40日"
 		}
 	]
 }
