@@ -31,6 +31,19 @@
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01083"
     },
     {
+      "許可證字": "農藥原進",
+      "許可證號": "01127",
+      "中文名稱": "賜派芬",
+      "農藥代號": "A053",
+      "英文名稱": "SPIRODICLOFEN",
+      "廠牌名稱": null,
+      "化學成分": "3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate",
+      "國外原製造廠商": "SHIJIAZHUANG RICHEM CO., LTD.",
+      "有效期限": "113/04/28",
+      "廠商名稱": "朝暘生化開發有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01127"
+    },
+    {
       "許可證字": "農藥進",
       "許可證號": "02533",
       "中文名稱": "賜派芬",

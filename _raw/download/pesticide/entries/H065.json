@@ -32,19 +32,6 @@
     },
     {
       "許可證字": "農藥製",
-      "許可證號": "00188",
-      "中文名稱": "拉草",
-      "農藥代號": "H065",
-      "英文名稱": "ALACHLOR",
-      "廠牌名稱": null,
-      "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
-      "國外原製造廠商": null,
-      "有效期限": "108/03/17",
-      "廠商名稱": "華隆化學股份有限公司",
-      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00188"
-    },
-    {
-      "許可證字": "農藥製",
       "許可證號": "00196",
       "中文名稱": "拉草",
       "農藥代號": "H065",
@@ -91,7 +78,7 @@
       "廠牌名稱": null,
       "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
       "國外原製造廠商": null,
-      "有效期限": "108/08/10",
+      "有效期限": "113/08/10",
       "廠商名稱": "功力化學工業股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00370"
     },
@@ -143,7 +130,7 @@
       "廠牌名稱": "拉索",
       "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
       "國外原製造廠商": null,
-      "有效期限": "108/08/31",
+      "有效期限": "113/08/31",
       "廠商名稱": "瑞芳植物保護股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01380"
     },

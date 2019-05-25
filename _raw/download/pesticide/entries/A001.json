@@ -1,22 +1,9 @@
 {
   "id": "A001",
   "普通名稱": "三亞蟎",
-  "廠牌名稱": null,
+  "廠牌名稱": "一掃螨",
   "通過日期": null,
   "licenses": [
-    {
-      "許可證字": "農藥原進",
-      "許可證號": "00082",
-      "中文名稱": "三亞蟎",
-      "農藥代號": "A001",
-      "英文名稱": "AMITRAZ",
-      "廠牌名稱": null,
-      "化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
-      "國外原製造廠商": "SHANGYU NUTRICHEM CO. LTD.",
-      "有效期限": "108/03/18",
-      "廠商名稱": "鴻勳國際企業有限公司",
-      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00082"
-    },
     {
       "許可證字": "農藥進",
       "許可證號": "00679",
@@ -29,6 +16,19 @@
       "有效期限": "109/07/16",
       "廠商名稱": "鴻勳國際企業有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00679"
+    },
+    {
+      "許可證字": "農藥原進",
+      "許可證號": "01131",
+      "中文名稱": "三亞蟎",
+      "農藥代號": "A001",
+      "英文名稱": "AMITRAZ",
+      "廠牌名稱": null,
+      "化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
+      "國外原製造廠商": "BAILING AGROCHEMICAL CO., LTD.",
+      "有效期限": "113/05/01",
+      "廠商名稱": "台灣日產化工股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01131"
     },
     {
       "許可證字": "農藥製",

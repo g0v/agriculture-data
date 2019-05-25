@@ -1,22 +1,9 @@
 {
   "id": "A045",
   "普通名稱": "阿納寧",
-  "廠牌名稱": null,
+  "廠牌名稱": "金正發",
   "通過日期": null,
   "licenses": [
-    {
-      "許可證字": "農藥原進",
-      "許可證號": "00594",
-      "中文名稱": "阿納寧",
-      "農藥代號": "A045",
-      "英文名稱": "ACRINATHRIN",
-      "廠牌名稱": null,
-      "化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R-cis)-2,2-dimethyl-3-[2-(2,2,2-trifluoro-1-trifluoromethylethoxycarbonyl)vinyl]cyclopropanecarboxylate",
-      "國外原製造廠商": "BAYER VAPI PRIVATE LIMITED",
-      "有效期限": "108/05/11",
-      "廠商名稱": "台灣富美實有限公司",
-      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00594"
-    },
     {
       "許可證字": "農藥進",
       "許可證號": "01782",

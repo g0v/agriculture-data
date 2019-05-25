@@ -26,7 +26,7 @@
       "廠牌名稱": null,
       "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
       "國外原製造廠商": null,
-      "有效期限": "108/07/09",
+      "有效期限": "113/07/09",
       "廠商名稱": "惠光股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00186"
     },
@@ -213,6 +213,19 @@
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01082"
     },
     {
+      "許可證字": "農藥原進",
+      "許可證號": "01136",
+      "中文名稱": "亞托敏",
+      "農藥代號": "F226",
+      "英文名稱": "AZOXYSTROBIN",
+      "廠牌名稱": null,
+      "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
+      "國外原製造廠商": "SHANDONG UNITED PESTICIDE INDUSTRY CO., LTD",
+      "有效期限": "113/05/08",
+      "廠商名稱": "雅飛有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01136"
+    },
+    {
       "許可證字": "農藥進",
       "許可證號": "01825",
       "中文名稱": "亞托敏",
@@ -221,7 +234,7 @@
       "廠牌名稱": "稱無限",
       "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
       "國外原製造廠商": "SYNGENTA LIMITED",
-      "有效期限": "108/05/06",
+      "有效期限": "113/05/06",
       "廠商名稱": "台灣先正達股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01825"
     },

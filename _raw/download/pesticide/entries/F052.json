@@ -45,19 +45,6 @@
     },
     {
       "許可證字": "農藥製",
-      "許可證號": "00456",
-      "中文名稱": "免賴得",
-      "農藥代號": "F052",
-      "英文名稱": "BENOMYL",
-      "廠牌名稱": "萬力",
-      "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
-      "國外原製造廠商": null,
-      "有效期限": "108/04/28",
-      "廠商名稱": "正農化學股份有限公司",
-      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00456"
-    },
-    {
-      "許可證字": "農藥製",
       "許可證號": "00725",
       "中文名稱": "免賴得",
       "農藥代號": "F052",
@@ -65,7 +52,7 @@
       "廠牌名稱": null,
       "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/08/31",
+      "有效期限": "113/08/31",
       "廠商名稱": "光華化學股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00725"
     },
@@ -78,7 +65,7 @@
       "廠牌名稱": "再生",
       "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/09/18",
+      "有效期限": "113/09/18",
       "廠商名稱": "世大農化工廠股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00825"
     },
@@ -234,7 +221,7 @@
       "廠牌名稱": "一大利",
       "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
       "國外原製造廠商": "HEXTAR CHEMICALS SDN. BHD.",
-      "有效期限": "108/09/08",
+      "有效期限": "113/09/08",
       "廠商名稱": "海博生技股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02379"
     },

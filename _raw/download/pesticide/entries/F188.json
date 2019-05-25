@@ -78,7 +78,7 @@
       "廠牌名稱": null,
       "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
       "國外原製造廠商": "YANCHENG LIMIN CHEMICAL CO., LTD.",
-      "有效期限": "108/09/02",
+      "有效期限": "113/09/02",
       "廠商名稱": "興農股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00907"
     },
@@ -129,7 +129,7 @@
       "英文名稱": "HEXACONAZOLE",
       "廠牌名稱": "安滅樂",
       "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
-      "國外原製造廠商": "ASIATIC AGRICULTURAL INDUSTIRES PTE. LTD.",
+      "國外原製造廠商": "SYNGENTA ASIA PACIFIC PTE. LTD.",
       "有效期限": "109/07/24",
       "廠商名稱": "台灣先正達股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01112"
@@ -146,6 +146,19 @@
       "有效期限": "113/01/01",
       "廠商名稱": "國豐化學工業股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01114"
+    },
+    {
+      "許可證字": "農藥原進",
+      "許可證號": "01130",
+      "中文名稱": "菲克利",
+      "農藥代號": "F188",
+      "英文名稱": "HEXACONAZOLE",
+      "廠牌名稱": null,
+      "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
+      "國外原製造廠商": "JIANGSU FENGDENG CROP SCIENCE CO., LTD.",
+      "有效期限": "113/05/01",
+      "廠商名稱": "佳禾作物科學股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01130"
     },
     {
       "許可證字": "農藥進",
@@ -259,8 +272,8 @@
       "英文名稱": "HEXACONAZOLE",
       "廠牌名稱": "利枯淨",
       "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
-      "國外原製造廠商": "THE SCIENTIFIC FERTILISER CO., LTD.",
-      "有效期限": "108/10/03",
+      "國外原製造廠商": "THE SCIENTIFIC FERTILISER CO., PVT. LTD.",
+      "有效期限": "113/10/03",
       "廠商名稱": "易利特開發有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02151"
     },
@@ -357,6 +370,19 @@
     },
     {
       "許可證字": "農藥進",
+      "許可證號": "02338",
+      "中文名稱": "菲克利",
+      "農藥代號": "F188",
+      "英文名稱": "HEXACONAZOLE",
+      "廠牌名稱": "治紋淨",
+      "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
+      "國外原製造廠商": "FARMHANNONG CO., LTD.",
+      "有效期限": "113/01/11",
+      "廠商名稱": "東鋒股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02338"
+    },
+    {
+      "許可證字": "農藥進",
       "許可證號": "02342",
       "中文名稱": "菲克利",
       "農藥代號": "F188",
@@ -442,7 +468,7 @@
       "廠牌名稱": "稻欉青",
       "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
       "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-      "有效期限": "108/08/18",
+      "有效期限": "113/08/18",
       "廠商名稱": "法台貿易有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02710"
     }

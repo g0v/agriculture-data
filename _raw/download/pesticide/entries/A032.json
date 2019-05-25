@@ -120,6 +120,32 @@
       "有效期限": "110/05/15",
       "廠商名稱": "洽益化學股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02682"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02794",
+      "中文名稱": "毆蟎多",
+      "農藥代號": "A032",
+      "英文名稱": "PROPARGITE",
+      "廠牌名稱": "殺蟎能",
+      "化學成分": "2-(4-tert-butylphenoxy)cyclohexyl prop-2-ynyl sulfite",
+      "國外原製造廠商": null,
+      "有效期限": "110/06/27",
+      "廠商名稱": "台灣正豐植保股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02794"
+    },
+    {
+      "許可證字": "農藥製",
+      "許可證號": "02795",
+      "中文名稱": "毆蟎多",
+      "農藥代號": "A032",
+      "英文名稱": "PROPARGITE",
+      "廠牌名稱": "殺蟎能",
+      "化學成分": "2-(4-tert-butylphenoxy)cyclohexyl prop-2-ynyl sulfite",
+      "國外原製造廠商": null,
+      "有效期限": "110/06/27",
+      "廠商名稱": "台灣正豐植保股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02795"
     }
   ],
   "usages": [
@@ -139,7 +165,7 @@
       "稀釋倍數": "1500",
       "使用時期": "",
       "施藥間隔": "-日",
-      "安全採收期": "-日"
+      "安全採收期": "15日"
     },
     {
       "作物名稱": "瓜果類",
@@ -157,7 +183,7 @@
       "稀釋倍數": "1000",
       "使用時期": "",
       "施藥間隔": "-日",
-      "安全採收期": "-日"
+      "安全採收期": "15日"
     }
   ]
 }

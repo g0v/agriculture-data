@@ -1,7 +1,7 @@
 {
   "id": "I230",
   "普通名稱": "傑他賽滅寧",
-  "廠牌名稱": "飛龍",
+  "廠牌名稱": null,
   "通過日期": null,
   "licenses": [
     {
@@ -10,11 +10,11 @@
       "中文名稱": "傑他賽滅寧",
       "農藥代號": "I230",
       "英文名稱": "ZETA-CYPERMETHRIN",
-      "廠牌名稱": "飛龍",
+      "廠牌名稱": null,
       "化學成分": "(S)-α-cyano-3-phenoxybenzyl (1RS,3RS:1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",
       "國外原製造廠商": "FMC CORPORATION, AGRICULTURAL PRODUCTS GROUP",
       "有效期限": "108/07/03",
-      "廠商名稱": "國際技術社股份有限公司",
+      "廠商名稱": "台灣富美實有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02141"
     }
   ],

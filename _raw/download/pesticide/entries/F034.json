@@ -70,6 +70,19 @@
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01062"
     },
     {
+      "許可證字": "農藥原進",
+      "許可證號": "01132",
+      "中文名稱": "甲基鋅乃浦",
+      "農藥代號": "F034",
+      "英文名稱": "PROPINEB",
+      "廠牌名稱": null,
+      "化學成分": "polymeric zinc 1,2-propylenebis(dithiocarbamate)",
+      "國外原製造廠商": "JIANGSU SWORD AGROCHEMICALS CO., LTD.",
+      "有效期限": "113/05/08",
+      "廠商名稱": "興農股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01132"
+    },
+    {
       "許可證字": "農藥製",
       "許可證號": "01194",
       "中文名稱": "甲基鋅乃浦",

@@ -13,7 +13,7 @@
       "廠牌名稱": null,
       "化學成分": "N-(phosphonomethyl)glycine",
       "國外原製造廠商": null,
-      "有效期限": "108/08/30",
+      "有效期限": "113/08/30",
       "廠商名稱": "功力化學工業股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00129"
     },
@@ -198,6 +198,19 @@
       "有效期限": "111/03/06",
       "廠商名稱": "富農化學工業股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01017"
+    },
+    {
+      "許可證字": "農藥原進",
+      "許可證號": "01126",
+      "中文名稱": "嘉磷塞",
+      "農藥代號": "H125",
+      "英文名稱": "GLYPHOSATE",
+      "廠牌名稱": null,
+      "化學成分": "N-(phosphonomethyl)glycine",
+      "國外原製造廠商": "JINGMA CHEMICALS CO., LTD.",
+      "有效期限": "113/04/21",
+      "廠商名稱": "明篁股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01126"
     }
   ],
   "usages": []

@@ -44,19 +44,6 @@
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00071"
     },
     {
-      "許可證字": "農藥進",
-      "許可證號": "00197",
-      "中文名稱": "滅必蝨",
-      "農藥代號": "I138",
-      "英文名稱": "ISOPROCARB",
-      "廠牌名稱": "滅必死",
-      "化學成分": "2-isopropylphenyl methylcarbamate",
-      "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-      "有效期限": "108/05/05",
-      "廠商名稱": "生力化學工業股份有限公司",
-      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00197"
-    },
-    {
       "許可證字": "農藥製",
       "許可證號": "00418",
       "中文名稱": "滅必蝨",
@@ -65,7 +52,7 @@
       "廠牌名稱": "好必蝨",
       "化學成分": "2-isopropylphenyl methylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/07/24",
+      "有效期限": "113/07/24",
       "廠商名稱": "光華化學股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00418"
     },
@@ -104,7 +91,7 @@
       "廠牌名稱": "必滅蝨",
       "化學成分": "2-isopropylphenyl methylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/09/30",
+      "有效期限": "113/09/30",
       "廠商名稱": "台灣日產化工股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00573"
     },
@@ -234,7 +221,7 @@
       "廠牌名稱": null,
       "化學成分": "2-isopropylphenyl methylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/09/30",
+      "有效期限": "113/09/30",
       "廠商名稱": "東和化學企業股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01077"
     },
@@ -273,7 +260,7 @@
       "廠牌名稱": null,
       "化學成分": "2-isopropylphenyl methylcarbamate",
       "國外原製造廠商": null,
-      "有效期限": "108/09/30",
+      "有效期限": "113/09/30",
       "廠商名稱": "中華民國農會附設各級農會農化廠",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01223"
     },

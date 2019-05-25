@@ -533,19 +533,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00050"
   },
   {
-    "許可證字": "農藥原進",
-    "許可證號": "00050",
-    "中文名稱": "福瑞松",
-    "農藥代號": "I155",
-    "英文名稱": "PHORATE",
-    "廠牌名稱": "賽滅得",
-    "化學成分": "O,O-diethyl S-ethylthiomethyl phosphorodithioate",
-    "國外原製造廠商": "AMVAC CHEMICAL CORPORATION",
-    "有效期限": "108/05/22",
-    "廠商名稱": "達通國際興業有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00050"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "00051",
     "中文名稱": "安丹",
@@ -684,7 +671,7 @@
     "廠牌名稱": null,
     "化學成分": "3-allyloxy-1,2-benz[d]isothiazole 1,1-dioxide",
     "國外原製造廠商": "MEIJI SEIKA PHARMA CO., LTD.",
-    "有效期限": "108/06/18",
+    "有效期限": "113/06/18",
     "廠商名稱": "臺灣三笠化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00061"
   },
@@ -1131,19 +1118,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00082"
   },
   {
-    "許可證字": "農藥原進",
-    "許可證號": "00082",
-    "中文名稱": "三亞蟎",
-    "農藥代號": "A001",
-    "英文名稱": "AMITRAZ",
-    "廠牌名稱": null,
-    "化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
-    "國外原製造廠商": "SHANGYU NUTRICHEM CO. LTD.",
-    "有效期限": "108/03/18",
-    "廠商名稱": "鴻勳國際企業有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00082"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "00085",
     "中文名稱": "馬拉松",
@@ -1269,7 +1243,7 @@
     "廠牌名稱": "允殺淨",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/03/27",
+    "有效期限": "113/03/27",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00090"
   },
@@ -1282,7 +1256,7 @@
     "廠牌名稱": "銹滅寧",
     "化學成分": "5,6-dihydro-2-methyl-1,4-oxathi-ine-3-carboxanilide- 4,4-dioxide",
     "國外原製造廠商": null,
-    "有效期限": "108/03/27",
+    "有效期限": "113/03/27",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00092"
   },
@@ -1438,7 +1412,7 @@
     "廠牌名稱": "有利黴素",
     "化學成分": "O-2-deoxy-2-methylamino-α-L-glucopyranosyl-(12)-O-5-deoxy-3-C-formyl-α-L-lyxofuranosyl-(14)-N^1,N^3-diamidino-D-streptamine (10萬單位/公撮)",
     "國外原製造廠商": null,
-    "有效期限": "108/03/27",
+    "有效期限": "113/03/27",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00101"
   },
@@ -1451,22 +1425,9 @@
     "廠牌名稱": "矮仔冬瓜",
     "化學成分": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/03/27",
+    "有效期限": "113/03/27",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00103"
-  },
-  {
-    "許可證字": "農藥製",
-    "許可證號": "00104",
-    "中文名稱": "馬拉松",
-    "農藥代號": "I107",
-    "英文名稱": "MALATHION",
-    "廠牌名稱": "允殺淨",
-    "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
-    "國外原製造廠商": null,
-    "有效期限": "108/03/27",
-    "廠商名稱": "龍燈生物科技股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00104"
   },
   {
     "許可證字": "農藥製",
@@ -1789,7 +1750,7 @@
     "廠牌名稱": null,
     "化學成分": "N-(phosphonomethyl)glycine",
     "國外原製造廠商": null,
-    "有效期限": "108/08/30",
+    "有效期限": "113/08/30",
     "廠商名稱": "功力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00129"
   },
@@ -1802,7 +1763,7 @@
     "廠牌名稱": null,
     "化學成分": "isopropylamine salt of N-(phosphonomethyl)glycine",
     "國外原製造廠商": null,
-    "有效期限": "108/08/30",
+    "有效期限": "113/08/30",
     "廠商名稱": "功力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00130"
   },
@@ -1971,7 +1932,7 @@
     "廠牌名稱": "台灣寶",
     "化學成分": "BACILLUS SUBTILIS Y1336                                     \r\nVIABLE SPORES OF BACILLUS SUBTILIS Y1336",
     "國外原製造廠商": null,
-    "有效期限": "108/07/26",
+    "有效期限": "113/07/26",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00139"
   },
@@ -2062,7 +2023,7 @@
     "廠牌名稱": "好順利",
     "化學成分": "O,O-dimethyl S-phthalimidomethyl phosphorodithioate",
     "國外原製造廠商": "GOWAN MILLING",
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "高事達農化有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00145"
   },
@@ -2153,7 +2114,7 @@
     "廠牌名稱": "龍燈快得寧",
     "化學成分": "bis(quinolin-8-olato-O,N)copper",
     "國外原製造廠商": null,
-    "有效期限": "108/04/05",
+    "有效期限": "113/04/05",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00151"
   },
@@ -2179,7 +2140,7 @@
     "廠牌名稱": "好是松",
     "化學成分": "O, O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/04/05",
+    "有效期限": "113/04/05",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00152"
   },
@@ -2520,6 +2481,19 @@
     "有效期限": "113/01/04",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00166"
+  },
+  {
+    "許可證字": "農藥進",
+    "許可證號": "00166",
+    "中文名稱": "鋅錳乃浦",
+    "農藥代號": "F164",
+    "英文名稱": "MANCOZEB",
+    "廠牌名稱": "萬生｜２００",
+    "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
+    "國外原製造廠商": "UNIPHOS COLOMBIA PLANT LIMITED",
+    "有效期限": "113/03/06",
+    "廠商名稱": "聯合農化股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00166"
   },
   {
     "許可證字": "農藥原製",
@@ -3024,7 +2998,7 @@
     "廠牌名稱": null,
     "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/09",
+    "有效期限": "113/07/09",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=30&lno=00186"
   },
@@ -3053,19 +3027,6 @@
     "有效期限": "104/10/20",
     "廠商名稱": "台灣先正達股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00187"
-  },
-  {
-    "許可證字": "農藥製",
-    "許可證號": "00188",
-    "中文名稱": "拉草",
-    "農藥代號": "H065",
-    "英文名稱": "ALACHLOR",
-    "廠牌名稱": null,
-    "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
-    "國外原製造廠商": null,
-    "有效期限": "108/03/17",
-    "廠商名稱": "華隆化學股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00188"
   },
   {
     "許可證字": "農藥原製",
@@ -3115,7 +3076,7 @@
     "廠牌名稱": "菌敵-M",
     "化學成分": "(1) manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt...65%\r\n(2) methyl N-phenylacetyl-N-2,6-xylyl-D-alaninate...4%",
     "國外原製造廠商": "ISAGRO S. P. A.",
-    "有效期限": "108/04/25",
+    "有效期限": "113/04/25",
     "廠商名稱": "台灣龍燈股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00191"
   },
@@ -3141,7 +3102,7 @@
     "廠牌名稱": "大生霸王",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
     "國外原製造廠商": "DOW AGROSCIENCES DE COLOMBIA S. A.",
-    "有效期限": "108/06/17",
+    "有效期限": "113/06/17",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00192"
   },
@@ -3193,7 +3154,7 @@
     "廠牌名稱": "除害寧",
     "化學成分": "3-phenoxybenzyl (1RS)-cis-trans-3-(2,2-dichlorovinyl)-2,2- dimethylcyclopropanecarboxylate",
     "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-    "有效期限": "108/05/05",
+    "有效期限": "113/05/05",
     "廠商名稱": "生力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00195"
   },
@@ -3232,7 +3193,7 @@
     "廠牌名稱": "滴死",
     "化學成分": "(S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate",
     "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-    "有效期限": "108/05/05",
+    "有效期限": "113/05/05",
     "廠商名稱": "生力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00196"
   },
@@ -3261,19 +3222,6 @@
     "有效期限": "113/01/08",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00197"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "00197",
-    "中文名稱": "滅必蝨",
-    "農藥代號": "I138",
-    "英文名稱": "ISOPROCARB",
-    "廠牌名稱": "滅必死",
-    "化學成分": "2-isopropylphenyl methylcarbamate",
-    "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-    "有效期限": "108/05/05",
-    "廠商名稱": "生力化學工業股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00197"
   },
   {
     "許可證字": "農藥原製",
@@ -3367,19 +3315,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00200"
   },
   {
-    "許可證字": "農藥進",
-    "許可證號": "00200",
-    "中文名稱": "賽達松",
-    "農藥代號": "I178",
-    "英文名稱": "PHENTHOATE",
-    "廠牌名稱": "巴斯松",
-    "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
-    "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-    "有效期限": "108/05/05",
-    "廠商名稱": "生力化學工業股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00200"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "00201",
     "中文名稱": "保米黴素",
@@ -3439,8 +3374,8 @@
     "英文名稱": "CYANAMIDE",
     "廠牌名稱": "春雷",
     "化學成分": "cyanamide",
-    "國外原製造廠商": "ALZCHEM AG",
-    "有效期限": "108/05/12",
+    "國外原製造廠商": "ALZCHEM TROSTBERG GMBH",
+    "有效期限": "113/05/12",
     "廠商名稱": "心禾實業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00206"
   },
@@ -3752,7 +3687,7 @@
     "廠牌名稱": "萬佳多",
     "化學成分": "α-α-α-trifluoro-3’-isopropoxy-o-toluanilide",
     "國外原製造廠商": "NICHINO SERVICE CO., LTD., SAGA FACTORY",
-    "有效期限": "108/06/24",
+    "有效期限": "113/06/24",
     "廠商名稱": "日佳農葯股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00255"
   },
@@ -3778,7 +3713,7 @@
     "廠牌名稱": "龍燈樂滅草",
     "化學成分": "5-tert-butyl-3-(2,4-dichloro-5-isopropoxyphenyl)-1,3,4- oxadiazol-2(3H)-one",
     "國外原製造廠商": null,
-    "有效期限": "108/06/17",
+    "有效期限": "113/06/17",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00261"
   },
@@ -3817,22 +3752,9 @@
     "廠牌名稱": "速敏",
     "化學成分": "1-naphthyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/05",
+    "有效期限": "113/07/05",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00264"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "00266",
-    "中文名稱": "普硫松",
-    "農藥代號": "I129",
-    "英文名稱": "PROTHIOFOS",
-    "廠牌名稱": "四季靈",
-    "化學成分": "O-2,4-dichlorophenyl O-ethyl S-propyl phosphorodithioate",
-    "國外原製造廠商": "Q-FAC CO., LTD.",
-    "有效期限": "103/08/10",
-    "廠商名稱": "鴻勳國際企業有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00266"
   },
   {
     "許可證字": "農藥製",
@@ -3973,7 +3895,7 @@
     "廠牌名稱": "美果松",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00283"
   },
@@ -3986,7 +3908,7 @@
     "廠牌名稱": "美果松",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00284"
   },
@@ -4012,7 +3934,7 @@
     "廠牌名稱": null,
     "化學成分": "(1) 2-sec-butylphenyl methylcarbamate...40%               \r\n(2)3-tert-butylphenyl-N-methylcarbamate..10%",
     "國外原製造廠商": null,
-    "有效期限": "108/08/02",
+    "有效期限": "113/08/02",
     "廠商名稱": "洽益化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00285"
   },
@@ -4080,6 +4002,19 @@
     "有效期限": "108/02/14",
     "廠商名稱": "大成化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00293"
+  },
+  {
+    "許可證字": "農藥製",
+    "許可證號": "00294",
+    "中文名稱": "芬殺松",
+    "農藥代號": "I079",
+    "英文名稱": "FENTHION",
+    "廠牌名稱": "拜粒產",
+    "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
+    "國外原製造廠商": null,
+    "有效期限": "113/02/14",
+    "廠商名稱": "眾益農業生技股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00294"
   },
   {
     "許可證字": "農藥原進",
@@ -4171,19 +4106,6 @@
     "有效期限": "112/04/06",
     "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00306"
-  },
-  {
-    "許可證字": "農藥製",
-    "許可證號": "00307",
-    "中文名稱": "維利黴素",
-    "農藥代號": "F139",
-    "英文名稱": "VALIDAMYCIN",
-    "廠牌名稱": null,
-    "化學成分": "1L-(1,3,4/2,6)-2,3-dihydroxy-6-hydroxymethyl-4-[(1S,4R,5S,6S )-4,5,6-trihydroxy-3-hydroxymethylcyclohex-2-enylamino]cyclohexyl β-D-glucopyranoside",
-    "國外原製造廠商": null,
-    "有效期限": "108/05/17",
-    "廠商名稱": "華隆化學股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00307"
   },
   {
     "許可證字": "農藥製",
@@ -4285,7 +4207,7 @@
     "廠牌名稱": "龍燈允殺好",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "龍燈生物科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00316"
   },
@@ -4584,7 +4506,7 @@
     "廠牌名稱": null,
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "利台化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00354"
   },
@@ -4597,7 +4519,7 @@
     "廠牌名稱": "龍巴斯",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
     "國外原製造廠商": "ISAGRO (ASIA) AGROCHEMICALS PVT. LTD.",
-    "有效期限": "108/11/05",
+    "有效期限": "113/11/05",
     "廠商名稱": "蒙狄生股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00354"
   },
@@ -4688,7 +4610,7 @@
     "廠牌名稱": "快速除",
     "化學成分": "N-butoxymethyl-2-chloro-2’,6’-diethylacetanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/03/19",
+    "有效期限": "113/03/19",
     "廠商名稱": "臺灣庵原農藥股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00361"
   },
@@ -4753,7 +4675,7 @@
     "廠牌名稱": "利農產",
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/04",
+    "有效期限": "113/08/04",
     "廠商名稱": "台灣正豐植保股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00368"
   },
@@ -4779,7 +4701,7 @@
     "廠牌名稱": null,
     "化學成分": "1-(4-AMINO-1,2-DIHYDRO-2-OXOPYRIMIDIN-1-YL)-4-[(S)-3-AMINO-5-(1-METHYLGUANIDINO)VALERAMIDO]-1,2,3,4-TETRADEOXY-β-D-ERYTHRO-HEX-2-ENOPYRANURONIC ACID",
     "國外原製造廠商": null,
-    "有效期限": "108/08/10",
+    "有效期限": "113/08/10",
     "廠商名稱": "台灣正豐植保股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00369"
   },
@@ -4805,7 +4727,7 @@
     "廠牌名稱": null,
     "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/08/10",
+    "有效期限": "113/08/10",
     "廠商名稱": "功力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00370"
   },
@@ -5104,7 +5026,7 @@
     "廠牌名稱": "百賜達克",
     "化學成分": "3’-isopropoxy-ο-toluanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/03/31",
+    "有效期限": "113/03/31",
     "廠商名稱": "臺灣庵原農藥股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00397"
   },
@@ -5195,7 +5117,7 @@
     "廠牌名稱": "庵原新滅靈",
     "化學成分": "(RS)-α-cyano-3-phenoxybenzyl (1RS)-cis-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",
     "國外原製造廠商": null,
-    "有效期限": "108/05/25",
+    "有效期限": "113/05/25",
     "廠商名稱": "臺灣庵原農藥股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00403"
   },
@@ -5260,7 +5182,7 @@
     "廠牌名稱": null,
     "化學成分": "(1) 2-sec-butylphenyl methylcarbamate...32%               (2) 3-tert-butylphenyl-N-methylcarbamate...8%",
     "國外原製造廠商": null,
-    "有效期限": "108/06/18",
+    "有效期限": "113/06/18",
     "廠商名稱": "臺灣庵原農藥股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00406"
   },
@@ -5312,7 +5234,7 @@
     "廠牌名稱": null,
     "化學成分": "DICOPPER CHLORIDE TRIHYDROXIDE",
     "國外原製造廠商": "INGENIERIA INDUSTRIAL, S.A. DE C.V.",
-    "有效期限": "108/03/21",
+    "有效期限": "113/03/21",
     "廠商名稱": "嘉濱貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00409"
   },
@@ -5351,7 +5273,7 @@
     "廠牌名稱": null,
     "化學成分": "CUPRIC HYDROXIDE",
     "國外原製造廠商": "INGENIERIA INDUSTRIAL, S.A. DE C.V.",
-    "有效期限": "108/03/21",
+    "有效期限": "113/03/21",
     "廠商名稱": "嘉濱貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00410"
   },
@@ -5403,7 +5325,7 @@
     "廠牌名稱": "樂斯本",
     "化學成分": "O, O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate",
     "國外原製造廠商": "DOW AGROSCIENCES LTD.",
-    "有效期限": "108/05/12",
+    "有效期限": "113/05/12",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00415"
   },
@@ -5416,7 +5338,7 @@
     "廠牌名稱": "好必蝨",
     "化學成分": "2-isopropylphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/24",
+    "有效期限": "113/07/24",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00418"
   },
@@ -5585,7 +5507,7 @@
     "廠牌名稱": null,
     "化學成分": "2-chloro ethylphosphonic acid",
     "國外原製造廠商": null,
-    "有效期限": "108/08/20",
+    "有效期限": "113/08/20",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00438"
   },
@@ -5598,7 +5520,7 @@
     "廠牌名稱": null,
     "化學成分": "1L-(1,3,4/2,6)-2,3-dihydroxy-6-hydroxymethyl-4-[(1S,4R,5S,6S )-4,5,6-trihydroxy-3-hydroxymethylcyclohex-2-enylamino]cyclohexyl β-D-glucopyranoside",
     "國外原製造廠商": null,
-    "有效期限": "108/08/20",
+    "有效期限": "113/08/20",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00442"
   },
@@ -5611,7 +5533,7 @@
     "廠牌名稱": "紅龍",
     "化學成分": "2-isopropoxyphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/13",
+    "有效期限": "113/08/13",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00443"
   },
@@ -5676,7 +5598,7 @@
     "廠牌名稱": "封殺蟎",
     "化學成分": "bis[tris(2-methyl-2-phenylpropyl)tin]oxide",
     "國外原製造廠商": null,
-    "有效期限": "108/04/08",
+    "有效期限": "113/04/08",
     "廠商名稱": "正農化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00448"
   },
@@ -5770,19 +5692,6 @@
     "有效期限": "109/06/27",
     "廠商名稱": "嘉濱貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00455"
-  },
-  {
-    "許可證字": "農藥製",
-    "許可證號": "00456",
-    "中文名稱": "免賴得",
-    "農藥代號": "F052",
-    "英文名稱": "BENOMYL",
-    "廠牌名稱": "萬力",
-    "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
-    "國外原製造廠商": null,
-    "有效期限": "108/04/28",
-    "廠商名稱": "正農化學股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00456"
   },
   {
     "許可證字": "農藥原進",
@@ -6092,7 +6001,7 @@
     "廠牌名稱": "寶農收",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00482"
   },
@@ -6105,7 +6014,7 @@
     "廠牌名稱": "惠光牌馬拉松",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00484"
   },
@@ -6118,7 +6027,7 @@
     "廠牌名稱": "必好除",
     "化學成分": "N-butoxymethyl-2-chloro-2’,6’-diethylacetanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/07/27",
+    "有效期限": "113/07/27",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00485"
   },
@@ -6144,7 +6053,7 @@
     "廠牌名稱": "毆特恩",
     "化學成分": "O,S-dimethyl acetylphosphoramidothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/04",
+    "有效期限": "113/08/04",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00488"
   },
@@ -6468,7 +6377,7 @@
     "英文名稱": "TRICYCLAZOLE",
     "廠牌名稱": "益友",
     "化學成分": "5-methyl-1,2,4-triazolo[3,4-b][1,3]benzothiazole",
-    "國外原製造廠商": "NAGARJUNA AGRICHEM LIMITED",
+    "國外原製造廠商": "NACL INDUSTRIES LIMITED",
     "有效期限": "111/11/18",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00507"
@@ -6479,11 +6388,11 @@
     "中文名稱": "撲克拉",
     "農藥代號": "F152",
     "英文名稱": "PROCHLORAZ",
-    "廠牌名稱": "包哩賀",
+    "廠牌名稱": null,
     "化學成分": "N-propyl-N-[2(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide",
     "國外原製造廠商": "PT BINA GUNA KIMIA",
     "有效期限": "109/03/01",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00510"
   },
   {
@@ -7080,7 +6989,7 @@
     "廠牌名稱": "速殺蟎",
     "化學成分": "O,O,O’,O’-tetraethyl S,S’-methylene bis(phosphorodithioate)",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00565"
   },
@@ -7145,7 +7054,7 @@
     "廠牌名稱": "益農產",
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00568"
   },
@@ -7171,7 +7080,7 @@
     "廠牌名稱": "快滅蝨",
     "化學成分": "2-CHLOROPHENYL-N-METHYLCARBAMATE",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00570"
   },
@@ -7197,7 +7106,7 @@
     "廠牌名稱": null,
     "化學成分": "ALIPHATIC HYDROCARBONS",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00572"
   },
@@ -7210,7 +7119,7 @@
     "廠牌名稱": "必滅蝨",
     "化學成分": "2-isopropylphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00573"
   },
@@ -7249,7 +7158,7 @@
     "廠牌名稱": "菌絕-８００",
     "化學成分": "methyl benzimidazol-2-ylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/09",
+    "有效期限": "113/09/09",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00575"
   },
@@ -7512,19 +7421,6 @@
     "有效期限": "103/08/31",
     "廠商名稱": "建農化工廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00594"
-  },
-  {
-    "許可證字": "農藥原進",
-    "許可證號": "00594",
-    "中文名稱": "阿納寧",
-    "農藥代號": "A045",
-    "英文名稱": "ACRINATHRIN",
-    "廠牌名稱": null,
-    "化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R-cis)-2,2-dimethyl-3-[2-(2,2,2-trifluoro-1-trifluoromethylethoxycarbonyl)vinyl]cyclopropanecarboxylate",
-    "國外原製造廠商": "BAYER VAPI PRIVATE LIMITED",
-    "有效期限": "108/05/11",
-    "廠商名稱": "台灣富美實有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00594"
   },
   {
     "許可證字": "農藥製",
@@ -8003,7 +7899,7 @@
     "廠牌名稱": "新好松",
     "化學成分": "O,O-dimethyl S-phthalimidomethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00625"
   },
@@ -8029,7 +7925,7 @@
     "廠牌名稱": "利滅松",
     "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00626"
   },
@@ -8068,7 +7964,7 @@
     "廠牌名稱": "易樂產",
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00628"
   },
@@ -8078,11 +7974,11 @@
     "中文名稱": "丁基加保扶",
     "農藥代號": "I002",
     "英文名稱": "CARBOSULFAN",
-    "廠牌名稱": "新好年丹",
+    "廠牌名稱": null,
     "化學成分": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl (dibutylaminothio) methylcarbamate",
     "國外原製造廠商": "JIANGSU LANFENG BIOCHEMICAL CO., LTD.",
     "有效期限": "110/01/31",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00628"
   },
   {
@@ -8094,7 +7990,7 @@
     "廠牌名稱": "可利農",
     "化學成分": "O,O-diethyl O-2-isopropyl-6-methylpyrimidin-4-yl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00630"
   },
@@ -8107,7 +8003,7 @@
     "廠牌名稱": "萬敵死",
     "化學成分": "dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00631"
   },
@@ -8133,7 +8029,7 @@
     "廠牌名稱": "永滅蟲",
     "化學成分": "O,O-dimethyl O-4-nitro-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00632"
   },
@@ -8185,7 +8081,7 @@
     "廠牌名稱": "黑仙",
     "化學成分": "O,S-dimethyl acetylphosphoramidothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00634"
   },
@@ -8299,11 +8195,11 @@
     "中文名稱": "丁基加保扶",
     "農藥代號": "I002",
     "英文名稱": "CARBOSULFAN",
-    "廠牌名稱": "好收冬",
+    "廠牌名稱": null,
     "化學成分": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl (dibutylaminothio) methylcarbamate",
     "國外原製造廠商": "FMC CORPORATION, AGRICULTURAL PRODUCTS GROUP",
     "有效期限": "109/06/09",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=00641"
   },
   {
@@ -8354,7 +8250,7 @@
     "廠牌名稱": null,
     "化學成分": "dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/20",
+    "有效期限": "113/08/20",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00644"
   },
@@ -8381,7 +8277,7 @@
     "化學成分": "methyl α-(4,6-dimethoxypyrimidin-2-ylcarbamoylsulfamoyl)-o-toluate",
     "國外原製造廠商": "DU PONT AGRICULTURAL CHEMICAL LTD., SHANGHAI",
     "有效期限": "112/05/22",
-    "廠商名稱": "台灣杜邦股份有限公司",
+    "廠商名稱": "台灣杜邦農業科學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00646"
   },
   {
@@ -8536,7 +8432,7 @@
     "廠牌名稱": null,
     "化學成分": "4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine",
     "國外原製造廠商": "SYNGENTA CROP PROTECTION MONTHEY S.A.",
-    "有效期限": "108/09/19",
+    "有效期限": "113/09/19",
     "廠商名稱": "台灣先正達股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00663"
   },
@@ -8614,7 +8510,7 @@
     "廠牌名稱": null,
     "化學成分": "5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithiine-2,3-dicarbonitrile",
     "國外原製造廠商": "RALLIS INDIA LIMITED",
-    "有效期限": "108/11/07",
+    "有效期限": "113/11/07",
     "廠商名稱": "翰金興業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00667"
   },
@@ -8823,7 +8719,7 @@
     "化學成分": "ethyl (RS)-2-chloro-3-[2-chloro-5-(4-difluoromethyl-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl)-4-fluorophenyl]propionate",
     "國外原製造廠商": "JIANGSU BAOZONG & BAODA PHARMACHEM CO., LTD.",
     "有效期限": "109/07/09",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00675"
   },
   {
@@ -8926,7 +8822,7 @@
     "廠牌名稱": "介殼寧",
     "化學成分": "O, O-dimethyl-S-methylcarbamoylmethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/05/23",
+    "有效期限": "113/05/23",
     "廠商名稱": "安旺特股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00680"
   },
@@ -9082,7 +8978,7 @@
     "廠牌名稱": "速勝",
     "化學成分": "O,S-dimethyl acetylphosphoramidothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/05/28",
+    "有效期限": "113/05/28",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00689"
   },
@@ -9199,7 +9095,7 @@
     "廠牌名稱": "白粉水仙",
     "化學成分": "5-butyl-2-ethylamino-6-methylpyrimidin-4-ol",
     "國外原製造廠商": null,
-    "有效期限": "108/05/28",
+    "有效期限": "113/05/28",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00694"
   },
@@ -9555,19 +9451,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00714"
   },
   {
-    "許可證字": "農藥原進",
-    "許可證號": "00715",
-    "中文名稱": "滅草胺",
-    "農藥代號": "H150",
-    "英文名稱": "METAZACHLOR",
-    "廠牌名稱": null,
-    "化學成分": "2-chloro-N-(pyrazol-1-ylmethyl)acet-2’,6’-xylidide",
-    "國外原製造廠商": "GHARDA CHEMICALS LIMITED",
-    "有效期限": "108/03/21",
-    "廠商名稱": "嘉濱貿易有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00715"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "00717",
     "中文名稱": "草脫淨",
@@ -9615,7 +9498,7 @@
     "廠牌名稱": "利百山",
     "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00719"
   },
@@ -9651,10 +9534,10 @@
     "中文名稱": "甲基多保淨",
     "農藥代號": "F029",
     "英文名稱": "THIOPHANATE-METHYL",
-    "廠牌名稱": null,
+    "廠牌名稱": "農保淨",
     "化學成分": "dimethyl 4,4’-(ο-phenylene)bis(3-thioallophanate)",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00721"
   },
@@ -9719,7 +9602,7 @@
     "廠牌名稱": null,
     "化學成分": "1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine",
     "國外原製造廠商": "RALLIS INDIA LIMITED",
-    "有效期限": "108/09/04",
+    "有效期限": "113/09/04",
     "廠商名稱": "翰金興業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00723"
   },
@@ -9758,7 +9641,7 @@
     "廠牌名稱": null,
     "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00725"
   },
@@ -9810,7 +9693,7 @@
     "廠牌名稱": "金農夫",
     "化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate (1:1)",
     "國外原製造廠商": "HERANBA INDUSTRIES LTD.",
-    "有效期限": "108/10/03",
+    "有效期限": "113/10/03",
     "廠商名稱": "國豐化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00726"
   },
@@ -10551,7 +10434,7 @@
     "廠牌名稱": null,
     "化學成分": "3-allyloxy-1,2-benz[d]isothiazole 1,1-dioxide",
     "國外原製造廠商": null,
-    "有效期限": "108/06/23",
+    "有效期限": "113/06/23",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00790"
   },
@@ -10564,7 +10447,7 @@
     "廠牌名稱": null,
     "化學成分": "2-(thiazol-4-yl)benzimidazole",
     "國外原製造廠商": null,
-    "有效期限": "108/06/23",
+    "有效期限": "113/06/23",
     "廠商名稱": "好速化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00791"
   },
@@ -10746,7 +10629,7 @@
     "廠牌名稱": "眾果生",
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "眾益農業生技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00801"
   },
@@ -10762,19 +10645,6 @@
     "有效期限": "113/04/15",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00801"
-  },
-  {
-    "許可證字": "農藥原進",
-    "許可證號": "00803",
-    "中文名稱": "可滅鼠",
-    "農藥代號": "R002",
-    "英文名稱": "BRODIFACOUM",
-    "廠牌名稱": null,
-    "化學成分": "3-[3-(4’-bromobiphenyl-4-yl)-1,2,3,4-tetrahydro-1-naphthyl]-4-hydroxycoumarin",
-    "國外原製造廠商": "TIANJIN TIANQING CHEMICALS CO., LTD",
-    "有效期限": "108/05/19",
-    "廠商名稱": "美商雅柏生活科技有限公司臺灣分公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00803"
   },
   {
     "許可證字": "農藥原進",
@@ -10889,7 +10759,7 @@
     "廠牌名稱": null,
     "化學成分": "(E)-N^1-[(6-chloro-3-pyridyl)methyl]-N^2-cyano-N^1-methylacetamidine",
     "國外原製造廠商": "YANCHENG LIMIN CHEMICAL CO., LTD.",
-    "有效期限": "108/09/17",
+    "有效期限": "113/09/17",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00812"
   },
@@ -11097,7 +10967,7 @@
     "廠牌名稱": "再生",
     "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/18",
+    "有效期限": "113/09/18",
     "廠商名稱": "世大農化工廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00825"
   },
@@ -11123,7 +10993,7 @@
     "廠牌名稱": "吉士能",
     "化學成分": "3-phenoxybenzyl (1RS)-cis-trans-3-(2,2-dichlorovinyl)-2,2- dimethylcyclopropanecarboxylate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/18",
+    "有效期限": "113/09/18",
     "廠商名稱": "世大農化工廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00826"
   },
@@ -11227,7 +11097,7 @@
     "廠牌名稱": "果多",
     "化學成分": "SODIUM-O-NITROPHENOL 0.6%   SODIUM-P-NITROPHENOL 0.9%  SODIUM-5-NITROGUAIACOL 0.3%",
     "國外原製造廠商": null,
-    "有效期限": "108/09/14",
+    "有效期限": "113/09/14",
     "廠商名稱": "世大農化工廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00831"
   },
@@ -11409,7 +11279,7 @@
     "廠牌名稱": null,
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00843"
   },
@@ -11448,7 +11318,7 @@
     "廠牌名稱": null,
     "化學成分": "diethyl (dimethoxythiophosphorylthio)succinate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/31",
+    "有效期限": "113/07/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00845"
   },
@@ -11487,7 +11357,7 @@
     "廠牌名稱": null,
     "化學成分": "O,O-dimethyl O-4-nitro-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00847"
   },
@@ -11720,7 +11590,7 @@
     "英文名稱": "ACETAMIPRID",
     "廠牌名稱": null,
     "化學成分": "(E)-N^1-[(6-chloro-3-pyridyl)methyl]-N^2-cyano-N^1-methylacetamidine",
-    "國外原製造廠商": "ZHEJIANG HISUN CHEMICAL CO., LTD.",
+    "國外原製造廠商": "HISUN CHEMICAL (NANTONG) CO., LTD.",
     "有效期限": "112/05/02",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00865"
@@ -11880,6 +11750,19 @@
     "有效期限": "108/09/30",
     "廠商名稱": "富農化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00876"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "00877",
+    "中文名稱": "亞滅培",
+    "農藥代號": "I225",
+    "英文名稱": "ACETAMIPRID",
+    "廠牌名稱": null,
+    "化學成分": "(E)-N^1-[(6-chloro-3-pyridyl)methyl]-N^2-cyano-N^1-methylacetamidine",
+    "國外原製造廠商": "ANHUI HUAXING CHEMICAL INDUSTRIAL CO., LTD.",
+    "有效期限": "112/09/12",
+    "廠商名稱": "育禾化學興業有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00877"
   },
   {
     "許可證字": "農藥製",
@@ -12111,35 +11994,9 @@
     "廠牌名稱": null,
     "化學成分": "1L-(1,3,4/2,6)-2,3-dihydroxy-6-hydroxymethyl-4-[(1S,4R,5S,6S )-4,5,6-trihydroxy-3-hydroxymethylcyclohex-2-enylamino]cyclohexyl β-D-glucopyranoside",
     "國外原製造廠商": "ZHEJIANG QIANJIANG BIOCHEMICAL CO. LTD.",
-    "有效期限": "108/04/24",
+    "有效期限": "113/04/24",
     "廠商名稱": "育禾化學興業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00891"
-  },
-  {
-    "許可證字": "農藥原進",
-    "許可證號": "00892",
-    "中文名稱": "達有龍",
-    "農藥代號": "H120",
-    "英文名稱": "DIURON",
-    "廠牌名稱": null,
-    "化學成分": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
-    "國外原製造廠商": "JIANGSU CHANGLONG AGROCHEMICAL CO., LTD.",
-    "有效期限": "108/04/24",
-    "廠商名稱": "日農科技股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00892"
-  },
-  {
-    "許可證字": "農藥原進",
-    "許可證號": "00893",
-    "中文名稱": "汰芬隆",
-    "農藥代號": "I197",
-    "英文名稱": "DIAFENTHIURON",
-    "廠牌名稱": null,
-    "化學成分": "1-tert-butyl-3-(2,6-diisopropyl-4-phenoxyphenyl)thiourea",
-    "國外原製造廠商": "JIANGSU CHANGQING AGROCHEMICAL CO. LTD",
-    "有效期限": "108/05/01",
-    "廠商名稱": "台灣先正達股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00893"
   },
   {
     "許可證字": "農藥製",
@@ -12153,19 +12010,6 @@
     "有效期限": "108/10/01",
     "廠商名稱": "華夏科學農化股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00894"
-  },
-  {
-    "許可證字": "農藥原進",
-    "許可證號": "00894",
-    "中文名稱": "賽速安",
-    "農藥代號": "I235",
-    "英文名稱": "THIAMETHOXAM",
-    "廠牌名稱": "國豐賽速安",
-    "化學成分": "3-(2-chloro-1,3-thiazol-5-ylmethyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene(nitro)amine",
-    "國外原製造廠商": "SHARDA WORLDWIDE EXPORTS PVT. LTD.",
-    "有效期限": "108/05/11",
-    "廠商名稱": "國豐化學工業股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00894"
   },
   {
     "許可證字": "農藥製",
@@ -12280,7 +12124,7 @@
     "廠牌名稱": null,
     "化學成分": "2,4,6,8-tetramethyl-1,3,5,7-tetraoxacyclo-octane",
     "國外原製造廠商": "HAIMEN ZHAOFENG CHEMICAL CO., LTD.",
-    "有效期限": "108/07/16",
+    "有效期限": "113/07/16",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00901"
   },
@@ -12293,7 +12137,7 @@
     "廠牌名稱": "治銹靈",
     "化學成分": "(1) METHYL BENZIMIDAZOL-2-YLCARBAMATE...............20%(2) 3’-ISOPROPOXY-ο-TOLUANILIDE....................55%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/01",
+    "有效期限": "113/07/01",
     "廠商名稱": "臺灣庵原農藥股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00902"
   },
@@ -12306,7 +12150,7 @@
     "廠牌名稱": null,
     "化學成分": "2-chloro-2’,6’-diethyl-N-(2-propoxyethyl)-acetanilide",
     "國外原製造廠商": "SHANDONG BINNONG TECHNOLOGY CO., LTD.",
-    "有效期限": "108/07/29",
+    "有效期限": "113/07/29",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00902"
   },
@@ -12332,7 +12176,7 @@
     "廠牌名稱": "好拔蟲",
     "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/01",
+    "有效期限": "113/07/01",
     "廠商名稱": "好速化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00904"
   },
@@ -12397,7 +12241,7 @@
     "廠牌名稱": null,
     "化學成分": "cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1- ylmethyl)-1,3-dioxolan-2-yl]phenyl-4-chlorophenyl ether",
     "國外原製造廠商": "JIANGSU SEVENCONTINENT GREEN CHEMICAL CO., LTD.",
-    "有效期限": "108/08/24",
+    "有效期限": "113/08/24",
     "廠商名稱": "台灣日產化工股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00906"
   },
@@ -12410,7 +12254,7 @@
     "廠牌名稱": null,
     "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
     "國外原製造廠商": "YANCHENG LIMIN CHEMICAL CO., LTD.",
-    "有效期限": "108/09/02",
+    "有效期限": "113/09/02",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00907"
   },
@@ -12449,7 +12293,7 @@
     "廠牌名稱": null,
     "化學成分": "O, O-dimethyl-S-methylcarbamoylmethyl phosphorodithioate",
     "國外原製造廠商": "HUNAN HAILI CHANGDE PESTICIDE CHEMICAL INDUSTRY CO. LTD.",
-    "有效期限": "108/09/10",
+    "有效期限": "113/09/10",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00909"
   },
@@ -12462,7 +12306,7 @@
     "廠牌名稱": null,
     "化學成分": "N-(1-ethylpropyl)-2, 6-dinitro-3,4-xylidine",
     "國外原製造廠商": "GSP CROP SCIENCE PRIVATE LIMITED",
-    "有效期限": "108/09/14",
+    "有效期限": "113/09/14",
     "廠商名稱": "雅飛有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=00910"
   },
@@ -12527,7 +12371,7 @@
     "廠牌名稱": "益必殺",
     "化學成分": "(1) 2-sec-butylphenyl methylcarbamate...40%               \r\n(2)3-tert-butylphenyl-N-methylcarbamate..10%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "眾益農業生技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00915"
   },
@@ -12553,7 +12397,7 @@
     "廠牌名稱": null,
     "化學成分": "(1) 2-sec-butylphenyl methylcarbamate...40%               \r\n(2)3-tert-butylphenyl-N-methylcarbamate..10%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00916"
   },
@@ -12592,7 +12436,7 @@
     "廠牌名稱": "世界棒",
     "化學成分": "bis(quinolin-8-olato-O,N)copper",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00917"
   },
@@ -12618,7 +12462,7 @@
     "廠牌名稱": null,
     "化學成分": "bis(quinolin-8-olato-O,N)copper",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00918"
   },
@@ -12644,7 +12488,7 @@
     "廠牌名稱": "快保淨",
     "化學成分": "(1) dimethyl 4,4’-(o-phenylene)bis(3-thioallophanate)...35%(2) bis(quinolin-8-olato-O,N)copper...40%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00919"
   },
@@ -12683,7 +12527,7 @@
     "廠牌名稱": "富貴冬",
     "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...25%                                \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...25%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00921"
   },
@@ -12761,7 +12605,7 @@
     "廠牌名稱": "滿意冬",
     "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...10%\r\n(2) 2-SEC-BUTYLPHENYL METHYLCARBAMATE...40%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/02",
+    "有效期限": "113/07/02",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00925"
   },
@@ -13398,7 +13242,7 @@
     "廠牌名稱": "東東好",
     "化學成分": "(1) METHYL-5-(2, 4-DICHLOROPHENOXY)-2-NITROBENZOATE 2.5%    \r\n(2) N-BUTOXYMETHYL-2-CHLORO-2’,6’-DIETHYLACETANILIDE 4%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/08",
+    "有效期限": "113/07/08",
     "廠商名稱": "億豐農化廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00954"
   },
@@ -13619,7 +13463,7 @@
     "廠牌名稱": "自立穩收冬",
     "化學成分": "(1) O,O-DIMETHYL S-PHTHALIMIDOMETHYL PHOSPHORODITHIOATE...25%                                \r\n(2) 2-ISOPROPYLPHENYL METHYLCARBAMATE...25%",
     "國外原製造廠商": null,
-    "有效期限": "108/07/10",
+    "有效期限": "113/07/10",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00963"
   },
@@ -13723,7 +13567,7 @@
     "廠牌名稱": "速勝",
     "化學成分": "O,S-dimethyl acetylphosphoramidothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00968"
   },
@@ -13749,7 +13593,7 @@
     "廠牌名稱": "妥普淨",
     "化學成分": "dimethyl 4,4’-(ο-phenylene)bis(3-thioallophanate)",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "臺益工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00969"
   },
@@ -13801,7 +13645,7 @@
     "廠牌名稱": "新品松",
     "化學成分": "O,O-diethyl O-2-isopropyl-6-methylpyrimidin-4-yl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00971"
   },
@@ -13853,7 +13697,7 @@
     "廠牌名稱": null,
     "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00973"
   },
@@ -13879,7 +13723,7 @@
     "廠牌名稱": null,
     "化學成分": "dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00974"
   },
@@ -13983,7 +13827,7 @@
     "廠牌名稱": "金克參滅",
     "化學成分": "2-sec-butylphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/07/05",
+    "有效期限": "113/07/05",
     "廠商名稱": "國豐化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00979"
   },
@@ -14542,7 +14386,7 @@
     "廠牌名稱": "愛達農",
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/10/01",
+    "有效期限": "113/10/01",
     "廠商名稱": "光華化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01012"
   },
@@ -14581,7 +14425,7 @@
     "廠牌名稱": "上米滿",
     "化學成分": "3-allyloxy-1,2-benz[d]isothiazole 1,1-dioxide",
     "國外原製造廠商": null,
-    "有效期限": "108/07/30",
+    "有效期限": "113/07/30",
     "廠商名稱": "聯利農業科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01014"
   },
@@ -15522,19 +15366,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01072"
   },
   {
-    "許可證字": "農藥進",
-    "許可證號": "01073",
-    "中文名稱": "護矽得",
-    "農藥代號": "F181",
-    "英文名稱": "FLUSILAZOLE",
-    "廠牌名稱": "新星",
-    "化學成分": "bis(4-fluorophenyl)(methyl)(1H-1,2,4-triazol-1-ylmethyl)silane",
-    "國外原製造廠商": "DU PONT DE NEMOURS (FRANCE) S. A. S.",
-    "有效期限": "108/03/27",
-    "廠商名稱": "台灣杜邦股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01073"
-  },
-  {
     "許可證字": "農藥原進",
     "許可證號": "01073",
     "中文名稱": "滅草胺",
@@ -15608,7 +15439,7 @@
     "廠牌名稱": null,
     "化學成分": "2-isopropylphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "東和化學企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01077"
   },
@@ -15647,7 +15478,7 @@
     "廠牌名稱": "效必殺",
     "化學成分": "2-CHLOROPHENYL-N-METHYLCARBAMATE",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "東和化學企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01078"
   },
@@ -15686,7 +15517,7 @@
     "廠牌名稱": null,
     "化學成分": "m-tolyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "東和化學企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01079"
   },
@@ -16115,7 +15946,7 @@
     "廠牌名稱": "馬上除",
     "化學成分": "N-butoxymethyl-2-chloro-2’,6’-diethylacetanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/08/23",
+    "有效期限": "113/08/23",
     "廠商名稱": "億豐農化廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01097"
   },
@@ -16439,7 +16270,7 @@
     "英文名稱": "HEXACONAZOLE",
     "廠牌名稱": "安滅樂",
     "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
-    "國外原製造廠商": "ASIATIC AGRICULTURAL INDUSTIRES PTE. LTD.",
+    "國外原製造廠商": "SYNGENTA ASIA PACIFIC PTE. LTD.",
     "有效期限": "109/07/24",
     "廠商名稱": "台灣先正達股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01112"
@@ -16627,6 +16458,45 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01122"
   },
   {
+    "許可證字": "農藥原進",
+    "許可證號": "01123",
+    "中文名稱": "復祿芬",
+    "農藥代號": "H097",
+    "英文名稱": "OXYFLUORFEN",
+    "廠牌名稱": null,
+    "化學成分": "2-chloro-α, α, α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether",
+    "國外原製造廠商": "JIANGSU YUNFAN CHEMICAL CO., LTD.",
+    "有效期限": "113/04/09",
+    "廠商名稱": "日農科技股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01123"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01124",
+    "中文名稱": "蓋普丹",
+    "農藥代號": "F143",
+    "英文名稱": "CAPTAN",
+    "廠牌名稱": null,
+    "化學成分": "N-(trichloromethylthio)cyclohex-4-ene-1,2-dicarboximide",
+    "國外原製造廠商": "HEBEI GUANLONG AGROCHEMICAL CO., LTD.",
+    "有效期限": "113/04/11",
+    "廠商名稱": "洽益化學股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01124"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01125",
+    "中文名稱": "第滅寧",
+    "農藥代號": "I119",
+    "英文名稱": "DELTAMETHRIN",
+    "廠牌名稱": null,
+    "化學成分": "(S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate",
+    "國外原製造廠商": "BIOQUEST INTERNATIONAL PVT. LTD.",
+    "有效期限": "113/04/11",
+    "廠商名稱": "易利特開發有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01125"
+  },
+  {
     "許可證字": "農藥製",
     "許可證號": "01126",
     "中文名稱": "礦物油",
@@ -16638,6 +16508,32 @@
     "有效期限": "108/09/30",
     "廠商名稱": "億豐農化廠股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01126"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01126",
+    "中文名稱": "嘉磷塞",
+    "農藥代號": "H125",
+    "英文名稱": "GLYPHOSATE",
+    "廠牌名稱": null,
+    "化學成分": "N-(phosphonomethyl)glycine",
+    "國外原製造廠商": "JINGMA CHEMICALS CO., LTD.",
+    "有效期限": "113/04/21",
+    "廠商名稱": "明篁股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01126"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01127",
+    "中文名稱": "賜派芬",
+    "農藥代號": "A053",
+    "英文名稱": "SPIRODICLOFEN",
+    "廠牌名稱": null,
+    "化學成分": "3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate",
+    "國外原製造廠商": "SHIJIAZHUANG RICHEM CO., LTD.",
+    "有效期限": "113/04/28",
+    "廠商名稱": "朝暘生化開發有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01127"
   },
   {
     "許可證字": "農藥進",
@@ -16653,6 +16549,58 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01128"
   },
   {
+    "許可證字": "農藥原進",
+    "許可證號": "01128",
+    "中文名稱": "賽速安",
+    "農藥代號": "I235",
+    "英文名稱": "THIAMETHOXAM",
+    "廠牌名稱": null,
+    "化學成分": "3-(2-chloro-1,3-thiazol-5-ylmethyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene(nitro)amine",
+    "國外原製造廠商": "SHIJIAZHUANG RICHEM CO., LTD.",
+    "有效期限": "113/04/28",
+    "廠商名稱": "朝暘生化開發有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01128"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01129",
+    "中文名稱": "賽速安",
+    "農藥代號": "I235",
+    "英文名稱": "THIAMETHOXAM",
+    "廠牌名稱": null,
+    "化學成分": "3-(2-chloro-1,3-thiazol-5-ylmethyl)-5-methyl-1,3,5-oxadiazinan-4-ylidene(nitro)amine",
+    "國外原製造廠商": "HANDAN RUITIAN PESTICIDE CO., LTD.",
+    "有效期限": "113/05/01",
+    "廠商名稱": "國豐化學工業股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01129"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01130",
+    "中文名稱": "菲克利",
+    "農藥代號": "F188",
+    "英文名稱": "HEXACONAZOLE",
+    "廠牌名稱": null,
+    "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
+    "國外原製造廠商": "JIANGSU FENGDENG CROP SCIENCE CO., LTD.",
+    "有效期限": "113/05/01",
+    "廠商名稱": "佳禾作物科學股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01130"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01131",
+    "中文名稱": "三亞蟎",
+    "農藥代號": "A001",
+    "英文名稱": "AMITRAZ",
+    "廠牌名稱": null,
+    "化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
+    "國外原製造廠商": "BAILING AGROCHEMICAL CO., LTD.",
+    "有效期限": "113/05/01",
+    "廠商名稱": "台灣日產化工股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01131"
+  },
+  {
     "許可證字": "農藥進",
     "許可證號": "01132",
     "中文名稱": "依芬寧",
@@ -16666,6 +16614,32 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01132"
   },
   {
+    "許可證字": "農藥原進",
+    "許可證號": "01132",
+    "中文名稱": "甲基鋅乃浦",
+    "農藥代號": "F034",
+    "英文名稱": "PROPINEB",
+    "廠牌名稱": null,
+    "化學成分": "polymeric zinc 1,2-propylenebis(dithiocarbamate)",
+    "國外原製造廠商": "JIANGSU SWORD AGROCHEMICALS CO., LTD.",
+    "有效期限": "113/05/08",
+    "廠商名稱": "興農股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01132"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01133",
+    "中文名稱": "本達隆",
+    "農藥代號": "H039",
+    "英文名稱": "BENTAZON",
+    "廠牌名稱": null,
+    "化學成分": "3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide",
+    "國外原製造廠商": "JIANGSU SWORD AGROCHEMICALS CO., LTD.",
+    "有效期限": "113/05/08",
+    "廠商名稱": "興農股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01133"
+  },
+  {
     "許可證字": "農藥製",
     "許可證號": "01134",
     "中文名稱": "愛殺松",
@@ -16677,6 +16651,45 @@
     "有效期限": "108/08/31",
     "廠商名稱": "大勝化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01134"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01134",
+    "中文名稱": "撲克拉",
+    "農藥代號": "F152",
+    "英文名稱": "PROCHLORAZ",
+    "廠牌名稱": null,
+    "化學成分": "N-propyl-N-[2(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide",
+    "國外原製造廠商": "NANJING RED SUN CO., LTD.",
+    "有效期限": "113/05/08",
+    "廠商名稱": "安旺特股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01134"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01135",
+    "中文名稱": "殺丹",
+    "農藥代號": "H083",
+    "英文名稱": "THIOBENCARB",
+    "廠牌名稱": null,
+    "化學成分": "S-4-chlorobenzyl diethylthiocarbamate",
+    "國外原製造廠商": "LIANYUNGANG NEUTECH CHEMICAL CO., LTD.",
+    "有效期限": "113/05/08",
+    "廠商名稱": "高事達農化有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01135"
+  },
+  {
+    "許可證字": "農藥原進",
+    "許可證號": "01136",
+    "中文名稱": "亞托敏",
+    "農藥代號": "F226",
+    "英文名稱": "AZOXYSTROBIN",
+    "廠牌名稱": null,
+    "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
+    "國外原製造廠商": "SHANDONG UNITED PESTICIDE INDUSTRY CO., LTD",
+    "有效期限": "113/05/08",
+    "廠商名稱": "雅飛有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=40&lno=01136"
   },
   {
     "許可證字": "農藥製",
@@ -17051,7 +17064,7 @@
     "廠牌名稱": null,
     "化學成分": "O,O-dimethyl S-phthalimidomethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/27",
+    "有效期限": "113/08/27",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01184"
   },
@@ -17077,7 +17090,7 @@
     "廠牌名稱": null,
     "化學成分": "m-tolyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/27",
+    "有效期限": "113/08/27",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01186"
   },
@@ -17454,7 +17467,7 @@
     "廠牌名稱": null,
     "化學成分": "m-tolyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01218"
   },
@@ -17519,7 +17532,7 @@
     "廠牌名稱": null,
     "化學成分": "2-isopropylphenyl methylcarbamate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/30",
+    "有效期限": "113/09/30",
     "廠商名稱": "中華民國農會附設各級農會農化廠",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01223"
   },
@@ -17558,7 +17571,7 @@
     "廠牌名稱": "菜利農",
     "化學成分": "S-α-ethoxycarbonylbenzyl O,O-dimethyl phosphorodithioate",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "國豐化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01227"
   },
@@ -17961,7 +17974,7 @@
     "廠牌名稱": "佳絲本",
     "化學成分": "O, O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate",
     "國外原製造廠商": null,
-    "有效期限": "108/09/09",
+    "有效期限": "113/09/09",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01265"
   },
@@ -18832,7 +18845,7 @@
     "廠牌名稱": "拉索",
     "化學成分": "2-chloro-2’,6’-diethyl-N-methoxymethylacetanilide",
     "國外原製造廠商": null,
-    "有效期限": "108/08/31",
+    "有效期限": "113/08/31",
     "廠商名稱": "瑞芳植物保護股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=01380"
   },
@@ -18861,32 +18874,6 @@
     "有效期限": "113/03/19",
     "廠商名稱": "松樹國際有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01382"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "01385",
-    "中文名稱": "可濕性硫黃",
-    "農藥代號": "F021",
-    "英文名稱": "SULFUR",
-    "廠牌名稱": "確實金",
-    "化學成分": "SULFUR",
-    "國外原製造廠商": "CEREXAGRI S. A. S.",
-    "有效期限": "108/04/11",
-    "廠商名稱": "安農股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01385"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "01386",
-    "中文名稱": "可濕性硫黃",
-    "農藥代號": "F021",
-    "英文名稱": "SULFUR",
-    "廠牌名稱": "大慶",
-    "化學成分": "SULFUR",
-    "國外原製造廠商": "CEREXAGRI S. A. S.",
-    "有效期限": "108/04/11",
-    "廠商名稱": "安農股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01386"
   },
   {
     "許可證字": "農藥製",
@@ -19131,7 +19118,7 @@
     "廠牌名稱": "德燻寶",
     "化學成分": "aluminium phosphide",
     "國外原製造廠商": "DETIA FREYBERG GMBH",
-    "有效期限": "108/09/16",
+    "有效期限": "113/09/16",
     "廠商名稱": "嘉怡股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01427"
   },
@@ -19170,7 +19157,7 @@
     "廠牌名稱": "拜勝格",
     "化學成分": "a reaction mixture comprising two enantiomeric pairs: (S)-α-cyano-4-fluoro-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-4-fluoro-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate (II) with (S)-α-cyano-4-fluoro-3-phenoxybenzyl (1R,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-4-fluoro-3-phenoxybenzyl (1S,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate (IV) in ratio c. 1:2",
     "國外原製造廠商": "BAYER AG",
-    "有效期限": "108/10/13",
+    "有效期限": "113/10/13",
     "廠商名稱": "台灣拜耳股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01432"
   },
@@ -19183,7 +19170,7 @@
     "廠牌名稱": "固田園",
     "化學成分": "O,O-diethyl O-1-phenyl-1H-1,2,4-triazol-3-yl phosphorothioate",
     "國外原製造廠商": "KRISHI RASAYAN EXPORTS PVT. LTD.",
-    "有效期限": "108/10/19",
+    "有效期限": "113/10/19",
     "廠商名稱": "東鋒股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01434"
   },
@@ -19650,7 +19637,7 @@
     "英文名稱": "TRIAZOPHOS",
     "廠牌名稱": "大發",
     "化學成分": "O,O-diethyl O-1-phenyl-1H-1,2,4-triazol-3-yl phosphorothioate",
-    "國外原製造廠商": "SUDARSHAN CHEMICAL INDUSTRIES LIMITED",
+    "國外原製造廠商": "WORLD VISION (VN) CO,. LTD",
     "有效期限": "109/07/17",
     "廠商名稱": "嘉濱貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01517"
@@ -20911,7 +20898,7 @@
     "英文名稱": "GLYPHOSATE IPA",
     "廠牌名稱": "免鋤草",
     "化學成分": "isopropylamine salt of N-(phosphonomethyl)glycine",
-    "國外原製造廠商": "HORIZON PACIFIC AGRICULTURE JOINT STOCK COMPANY",
+    "國外原製造廠商": "ANCOM CROP CARE SDN. BHD.",
     "有效期限": "110/06/26",
     "廠商名稱": "德方有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01626"
@@ -23387,19 +23374,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01814"
   },
   {
-    "許可證字": "農藥進",
-    "許可證號": "01815",
-    "中文名稱": "比多農",
-    "農藥代號": "F017",
-    "英文名稱": "BITERTANOL",
-    "廠牌名稱": "核可",
-    "化學成分": "1-(biphenyl-4-yloxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol (20:80 ratio of (1RS,2RS)- and (1RS,2SR)- isomers)",
-    "國外原製造廠商": "SAE RYUNG CHEMICALS CO., LTD.",
-    "有效期限": "108/03/31",
-    "廠商名稱": "東鋒股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01815"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "01816",
     "中文名稱": "賽滅寧",
@@ -23590,7 +23564,7 @@
     "廠牌名稱": "稱無限",
     "化學成分": "methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate",
     "國外原製造廠商": "SYNGENTA LIMITED",
-    "有效期限": "108/05/06",
+    "有效期限": "113/05/06",
     "廠商名稱": "台灣先正達股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01825"
   },
@@ -23642,7 +23616,7 @@
     "廠牌名稱": "好牽成",
     "化學成分": "1L-1,3,4/2,5,6-1-deoxy-2,3,4,5,6-pentahydroxycyclohexyl 2-amino-2,3,4,6-tetradeoxy-4-(α-iminoglycino)-α-D-arabino-hexopyranoside",
     "國外原製造廠商": "HOKKO CHEMICAL INDUSTRY CO., LTD. NIIGATA FACTORY",
-    "有效期限": "108/05/21",
+    "有效期限": "113/05/21",
     "廠商名稱": "大勝化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01828"
   },
@@ -23668,7 +23642,7 @@
     "廠牌名稱": "金灼灼",
     "化學成分": "4-chlorobenzyl (EZ)-N-(2,4-dichlorophenyl)-2-(1H-1,2,4-triazol-1-yl)thioacetamidate",
     "國外原製造廠商": "HOKKO CHEMICAL INDUSTRY CO., LTD. OKAYAMA FACTORY",
-    "有效期限": "108/05/21",
+    "有效期限": "113/05/21",
     "廠商名稱": "大勝化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01829"
   },
@@ -23694,7 +23668,7 @@
     "廠牌名稱": "來仙",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
     "國外原製造廠商": "INDOFIL INDUSTRIES LIMITED",
-    "有效期限": "108/06/10",
+    "有效期限": "113/06/10",
     "廠商名稱": "雅飛有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01831"
   },
@@ -23733,7 +23707,7 @@
     "廠牌名稱": "草無影",
     "化學成分": "2-chloro-α, α, α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether",
     "國外原製造廠商": "ADAMA AGAN LTD.",
-    "有效期限": "108/06/29",
+    "有效期限": "113/06/29",
     "廠商名稱": "聯利農業科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01834"
   },
@@ -23823,8 +23797,8 @@
     "英文名稱": "CYPERMETHRIN",
     "廠牌名稱": "速滅",
     "化學成分": "(RS)-α-cyano-3-phenoxybenzyl (1RS)-cis-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",
-    "國外原製造廠商": "UNITED PHOSPHORUS LIMITED",
-    "有效期限": "108/06/29",
+    "國外原製造廠商": "UPL LIMITED",
+    "有效期限": "113/06/29",
     "廠商名稱": "聯合農化股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01843"
   },
@@ -23876,7 +23850,7 @@
     "廠牌名稱": "拜易松",
     "化學成分": "O,O-diethyl O-quinoxalin-2-yl phosphorothioate",
     "國外原製造廠商": "SDS RAMCIDES CROPSCIENCE PRIVATE LIMITED",
-    "有效期限": "108/07/10",
+    "有效期限": "113/07/10",
     "廠商名稱": "易利特開發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01846"
   },
@@ -23902,7 +23876,7 @@
     "廠牌名稱": "毆易松",
     "化學成分": "O,S-dimethyl acetylphosphoramidothioate",
     "國外原製造廠商": "SDS RAMCIDES CROPSCIENCE PRIVATE LIMITED",
-    "有效期限": "108/07/10",
+    "有效期限": "113/07/10",
     "廠商名稱": "易利特開發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01847"
   },
@@ -24601,11 +24575,11 @@
     "中文名稱": "撲克拉錳",
     "農藥代號": "F153",
     "英文名稱": "PROCHLORAZ-MANGANESE",
-    "廠牌名稱": "包利贊",
+    "廠牌名稱": null,
     "化學成分": "N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide complex with manganese(II) chloride",
     "國外原製造廠商": "PT BINA GUNA KIMIA",
     "有效期限": "109/01/22",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01897"
   },
   {
@@ -26005,11 +25979,11 @@
     "中文名稱": "加保扶",
     "農藥代號": "I024",
     "英文名稱": "CARBOFURAN",
-    "廠牌名稱": "好年冬",
+    "廠牌名稱": null,
     "化學成分": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl methylcarbamate",
     "國外原製造廠商": "PT BINA GUNA KIMIA",
     "有效期限": "110/01/19",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01987"
   },
   {
@@ -26031,11 +26005,11 @@
     "中文名稱": "丁基加保扶",
     "農藥代號": "I002",
     "英文名稱": "CARBOSULFAN",
-    "廠牌名稱": "新好年丹",
+    "廠牌名稱": null,
     "化學成分": "2,3-dihydro-2,2-dimethylbenzofuran-7-yl (dibutylaminothio) methylcarbamate",
     "國外原製造廠商": "PT BINA GUNA KIMIA",
     "有效期限": "110/01/26",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=01990"
   },
   {
@@ -28076,7 +28050,7 @@
     "化學成分": "(1) 3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione...22.5%\r\n(2) 1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea...30%",
     "國外原製造廠商": "DU PONT DE NEMOURS (FRANCE) S. A. S.",
     "有效期限": "112/11/21",
-    "廠商名稱": "台灣杜邦股份有限公司",
+    "廠商名稱": "台灣杜邦農業科學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02128"
   },
   {
@@ -28193,7 +28167,7 @@
     "化學成分": "(1) 1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea…8%\r\n(2) manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt…64%",
     "國外原製造廠商": "P. T. DUPONT AGRICULTURAL PRODUCTS INDONESIA - PASURUAN PLANT",
     "有效期限": "108/06/17",
-    "廠商名稱": "台灣杜邦股份有限公司",
+    "廠商名稱": "台灣杜邦農業科學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02137"
   },
   {
@@ -28228,11 +28202,11 @@
     "中文名稱": "傑他賽滅寧",
     "農藥代號": "I230",
     "英文名稱": "ZETA-CYPERMETHRIN",
-    "廠牌名稱": "飛龍",
+    "廠牌名稱": null,
     "化學成分": "(S)-α-cyano-3-phenoxybenzyl (1RS,3RS:1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",
     "國外原製造廠商": "FMC CORPORATION, AGRICULTURAL PRODUCTS GROUP",
     "有效期限": "108/07/03",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02141"
   },
   {
@@ -28241,11 +28215,11 @@
     "中文名稱": "可滅蹤",
     "農藥代號": "H165",
     "英文名稱": "CLOMAZONE",
-    "廠牌名稱": "豪萬草",
+    "廠牌名稱": null,
     "化學成分": "2-(2-CHLOROBENZYL)-4,4-DIMETHYL-1,2-OXAZOLIDIN-3-ONE",
     "國外原製造廠商": "FMC CORPORATION, AGRICULTURAL PRODUCTS GROUP",
     "有效期限": "108/07/03",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02142"
   },
   {
@@ -28309,7 +28283,7 @@
     "廠牌名稱": "好作伴",
     "化學成分": "O, O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate",
     "國外原製造廠商": "KWIZDA AGRO GMBH.",
-    "有效期限": "108/08/29",
+    "有效期限": "113/08/29",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02146"
   },
@@ -28335,7 +28309,7 @@
     "廠牌名稱": "福穗寶",
     "化學成分": "1-(4-chlorobenzyl)-1-cyclopentyl-3-phenylurea",
     "國外原製造廠商": "VETERINARY AND AGRICULTURAL PRODUCTS MANUFACTURING CO., LTD.",
-    "有效期限": "108/08/29",
+    "有效期限": "113/08/29",
     "廠商名稱": "易利特開發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02147"
   },
@@ -28360,8 +28334,8 @@
     "英文名稱": "HEXACONAZOLE",
     "廠牌名稱": "利枯淨",
     "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
-    "國外原製造廠商": "THE SCIENTIFIC FERTILISER CO., LTD.",
-    "有效期限": "108/10/03",
+    "國外原製造廠商": "THE SCIENTIFIC FERTILISER CO., PVT. LTD.",
+    "有效期限": "113/10/03",
     "廠商名稱": "易利特開發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02151"
   },
@@ -28374,7 +28348,7 @@
     "廠牌名稱": "欣德寶",
     "化學成分": "5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithiine-2,3-dicarbonitrile",
     "國外原製造廠商": "RALLIS INDIA LIMITED",
-    "有效期限": "108/10/07",
+    "有效期限": "113/10/07",
     "廠商名稱": "翰金興業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02152"
   },
@@ -28544,7 +28518,7 @@
     "化學成分": "N,N-dimethyl-2-methylcarbamoyloxyimino-2-(methylthio)acetamide",
     "國外原製造廠商": "DU PONT DE NEMOURS (FRANCE) S. A. S.",
     "有效期限": "108/11/19",
-    "廠商名稱": "台灣杜邦股份有限公司",
+    "廠商名稱": "台灣杜邦農業科學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02163"
   },
   {
@@ -29025,7 +28999,7 @@
     "化學成分": "ethyl (RS)-2-chloro-3-[2-chloro-5-(4-difluoromethyl-4,5-dihydro-3-methyl-5-oxo-1H-1,2,4-triazol-1-yl)-4-fluorophenyl]propionate",
     "國外原製造廠商": "FMC CORPORATION, AGRICULTURAL PRODUCTS GROUP",
     "有效期限": "109/07/09",
-    "廠商名稱": "國際技術社股份有限公司",
+    "廠商名稱": "台灣富美實有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02192"
   },
   {
@@ -30063,7 +30037,7 @@
     "英文名稱": "TRICYCLAZOLE",
     "廠牌名稱": "益友",
     "化學成分": "5-methyl-1,2,4-triazolo[3,4-b][1,3]benzothiazole",
-    "國外原製造廠商": "NAGARJUNA AGRICHEM LIMITED",
+    "國外原製造廠商": "NACL INDUSTRIES LIMITED",
     "有效期限": "111/12/14",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02259"
@@ -30676,7 +30650,7 @@
     "化學成分": "CUPRIC HYDROXIDE",
     "國外原製造廠商": "KOCIDE LLC",
     "有效期限": "112/06/01",
-    "廠商名稱": "台灣杜邦股份有限公司",
+    "廠商名稱": "台灣杜邦農業科學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02296"
   },
   {
@@ -31101,7 +31075,7 @@
     "中文名稱": "三氟敏",
     "農藥代號": "F255",
     "英文名稱": "TRIFLOXYSTROBIN",
-    "廠牌名稱": "水福臨",
+    "廠牌名稱": "護您水",
     "化學成分": "methyl (E)-methoxyimino-{(E)-α-[1-(α,α,α-trifluoro-m-tolyl)ethylideneaminooxy]-o-tolyl}acetate",
     "國外原製造廠商": "BAYER S.A.S.",
     "有效期限": "112/11/18",
@@ -31250,6 +31224,19 @@
     "有效期限": "109/12/12",
     "廠商名稱": "興農股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02338"
+  },
+  {
+    "許可證字": "農藥進",
+    "許可證號": "02338",
+    "中文名稱": "菲克利",
+    "農藥代號": "F188",
+    "英文名稱": "HEXACONAZOLE",
+    "廠牌名稱": "治紋淨",
+    "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
+    "國外原製造廠商": "FARMHANNONG CO., LTD.",
+    "有效期限": "113/01/11",
+    "廠商名稱": "東鋒股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02338"
   },
   {
     "許可證字": "農藥製",
@@ -31572,7 +31559,7 @@
     "廠牌名稱": "露疫失",
     "化學成分": "(1) manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt...48%(2) methyl N-(methoxyacetyl)-N-(2,6-xylyl)-DL-alaninate...10%",
     "國外原製造廠商": "VETERINARY AND AGRICULTURAL PRODUCTS MANUFACTURING CO., LTD.",
-    "有效期限": "108/05/04",
+    "有效期限": "113/05/04",
     "廠商名稱": "瑞福企業有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02356"
   },
@@ -31588,32 +31575,6 @@
     "有效期限": "109/12/30",
     "廠商名稱": "嘉農企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02357"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "02357",
-    "中文名稱": "貝芬替",
-    "農藥代號": "F066",
-    "英文名稱": "CARBENDAZIM",
-    "廠牌名稱": "新農福產",
-    "化學成分": "methyl benzimidazol-2-ylcarbamate",
-    "國外原製造廠商": "ALFA (SAIGON) COMPANY LIMITED",
-    "有效期限": "108/05/04",
-    "廠商名稱": "雅飛有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02357"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "02358",
-    "中文名稱": "欣克免速隆",
-    "農藥代號": "H173",
-    "英文名稱": "THENYLCHLOR + BENSULFURONMETHYL",
-    "廠牌名稱": "治草靈",
-    "化學成分": "(1) 2-chloro-N-(3-methoxy-2-thenyl)-2’,6’-dimethylacetanilide...5%\r\n(2) methyl α-(4,6-dimethoxypyrimidin-2-ylcarbamoyl-sulfamoyl)-o-toluate...1%",
-    "國外原製造廠商": "NICHINO SERVICE CO., LTD., FUKUSHIMA FACTORY",
-    "有效期限": "108/05/12",
-    "廠商名稱": "日佳農葯股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02358"
   },
   {
     "許可證字": "農藥進",
@@ -31741,7 +31702,7 @@
     "廠牌名稱": "香兒寶",
     "化學成分": "A MIXTURE OF SPINOSYN A AND SPINOSYN D",
     "國外原製造廠商": "DOW AGROSCIENCES LTD.",
-    "有效期限": "108/06/26",
+    "有效期限": "113/06/26",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02365"
   },
@@ -31780,7 +31741,7 @@
     "廠牌名稱": "派慶慶",
     "化學成分": "(1) O-4-bromo-2-chlorophenyl O-ethyl S-propyl phosphorothioate...25%\r\n(2) (RS)-α-cyano-3-phenoxybenzyl (1RS)-cis-trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate...5%",
     "國外原製造廠商": "THE SCIENTIFIC FERTILISER CO., PVT. LTD.",
-    "有效期限": "108/07/18",
+    "有效期限": "113/07/18",
     "廠商名稱": "易利特開發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02368"
   },
@@ -31832,7 +31793,7 @@
     "廠牌名稱": "戰神",
     "化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate (1:1)",
     "國外原製造廠商": "VIETNAM PESTICIDE JOINT-STOCK COMPANY",
-    "有效期限": "108/08/15",
+    "有效期限": "113/08/15",
     "廠商名稱": "鴻鋒化學有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02374"
   },
@@ -31871,7 +31832,7 @@
     "廠牌名稱": "戰炭",
     "化學成分": "cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1- ylmethyl)-1,3-dioxolan-2-yl]phenyl-4-chlorophenyl ether",
     "國外原製造廠商": "WONDERFUL AGRICULTURE (VN) CO., LTD.",
-    "有效期限": "108/08/24",
+    "有效期限": "113/08/24",
     "廠商名稱": "萬得發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02377"
   },
@@ -31884,7 +31845,7 @@
     "廠牌名稱": "新-報你發",
     "化學成分": "(E,Z)-4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)acryloyl] morpholine",
     "國外原製造廠商": "WONDERFUL AGRICULTURE (VN) CO., LTD.",
-    "有效期限": "108/08/24",
+    "有效期限": "113/08/24",
     "廠商名稱": "萬得發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02378"
   },
@@ -31897,7 +31858,7 @@
     "廠牌名稱": "一大利",
     "化學成分": "methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate",
     "國外原製造廠商": "HEXTAR CHEMICALS SDN. BHD.",
-    "有效期限": "108/09/08",
+    "有效期限": "113/09/08",
     "廠商名稱": "海博生技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02379"
   },
@@ -32001,7 +31962,7 @@
     "廠牌名稱": "露多滅",
     "化學成分": "methyl N-(methoxyacetyl)-N-(2,6-xylyl)-DL-alaninate",
     "國外原製造廠商": "SUNDAT (S) PTE LTD.",
-    "有效期限": "108/09/21",
+    "有效期限": "113/09/21",
     "廠商名稱": "生力化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02385"
   },
@@ -32079,7 +32040,7 @@
     "廠牌名稱": "住友福祿寶",
     "化學成分": "Bacillus thuringiensis subsp. aizawa, strain NB-200",
     "國外原製造廠商": "VALENT BIOSCIENCES LLC",
-    "有效期限": "108/10/06",
+    "有效期限": "113/10/06",
     "廠商名稱": "台灣住友化學股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02392"
   },
@@ -36921,6 +36882,19 @@
   },
   {
     "許可證字": "農藥進",
+    "許可證號": "02671",
+    "中文名稱": "因滅汀",
+    "農藥代號": "I226",
+    "英文名稱": "EMAMECTIN BENZOATE",
+    "廠牌名稱": "絕蟲靈",
+    "化學成分": "a mixture containing 90% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,\r\n21R,24S)-6`-[(S)-sec-butyl]-21,24-dihydroxy-5`,11,13,22-tetramethyl-2-oxo-3,7,19\r\n-trioxatetracyclo[15.6.1.1^(4,8).0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-\r\n4-methylamino-α-L-lyxo-hexopyranosyl)-α-L-arabino-hexopyranoside benzoate and \r\n10% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,21R,24S)-21,24-dihydr\r\noxy-6`-isopropyl-5`,11,13,22-tetramethyl-2-oxo-3,7,19-trioxatetracyclo[15.6.1.1^(4,8).\r\n0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,\r\n6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-4-methylamino-α-L-lyxo-hexo\r\npyranosyl)-α-L-arabino-hexopyranoside benzoate",
+    "國外原製造廠商": "KIEN NAM JOINT STOCK COMPANY",
+    "有效期限": "113/03/05",
+    "廠商名稱": "安旺特股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02671"
+  },
+  {
+    "許可證字": "農藥進",
     "許可證號": "02673",
     "中文名稱": "勃寧激素",
     "農藥代號": "P019",
@@ -36946,19 +36920,6 @@
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02674"
   },
   {
-    "許可證字": "農藥進",
-    "許可證號": "02674",
-    "中文名稱": "佈飛松",
-    "農藥代號": "I056",
-    "英文名稱": "PROFENOFOS",
-    "廠牌名稱": "爽快",
-    "化學成分": "O-4-bromo-2-chlorophenyl O-ethyl S-propyl phosphorothioate",
-    "國外原製造廠商": "SYNGENTA KOREA LIMITED",
-    "有效期限": "108/04/15",
-    "廠商名稱": "台灣先正達股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02674"
-  },
-  {
     "許可證字": "農藥製",
     "許可證號": "02675",
     "中文名稱": "撲滅松",
@@ -36970,19 +36931,6 @@
     "有效期限": "110/04/06",
     "廠商名稱": "日農科技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02675"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "02675",
-    "中文名稱": "本達樂",
-    "農藥代號": "F198",
-    "英文名稱": "BENALAXYL",
-    "廠牌名稱": "好立達",
-    "化學成分": "methyl N-phenylacetyl-N-2,6-xylyl-DL-alaninate",
-    "國外原製造廠商": "PUNJAB CHEMICALS & CROP PROTECTION LIMITED",
-    "有效期限": "108/04/15",
-    "廠商名稱": "翰金興業有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02675"
   },
   {
     "許可證字": "農藥進",
@@ -37019,7 +36967,7 @@
     "廠牌名稱": "冠王星",
     "化學成分": "2-methylbiphenyl-3-ylmethyl (Z)-(1RS,3RS)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate",
     "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/04/30",
+    "有效期限": "113/04/30",
     "廠商名稱": "安旺特股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02677"
   },
@@ -37048,19 +36996,6 @@
     "有效期限": "113/05/07",
     "廠商名稱": "惠光股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02679"
-  },
-  {
-    "許可證字": "農藥進",
-    "許可證號": "02681",
-    "中文名稱": "甜菜夜蛾核多角體病毒",
-    "農藥代號": "I253",
-    "英文名稱": "SPODOPTERA EXIGUA NUCLEOPOLYHEDROVIRUS",
-    "廠牌名稱": "奇招",
-    "化學成分": "SPODOPTERA EXIGUA NUCLEOPOLYHEDROVIRUS, SENPV",
-    "國外原製造廠商": "CERTIS USA L. L. C.",
-    "有效期限": "108/05/07",
-    "廠商名稱": "嘉農企業股份有限公司",
-    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02681"
   },
   {
     "許可證字": "農藥製",
@@ -37136,7 +37071,7 @@
     "廠牌名稱": "新大生霸王",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
     "國外原製造廠商": "DOW AGROSCIENCES DE COLOMBIA S. A.",
-    "有效期限": "108/05/12",
+    "有效期限": "113/05/12",
     "廠商名稱": "台灣道禮股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02685"
   },
@@ -37174,8 +37109,8 @@
     "英文名稱": "MANCOZEB",
     "廠牌名稱": "天霸王",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
-    "國外原製造廠商": "UNITED PHOSPHORUS LIMITED",
-    "有效期限": "108/05/21",
+    "國外原製造廠商": "UPL LIMITED",
+    "有效期限": "113/05/21",
     "廠商名稱": "聯合農化股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02687"
   },
@@ -37227,7 +37162,7 @@
     "廠牌名稱": "優生45",
     "化學成分": "manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt",
     "國外原製造廠商": "LONG HIEP STOCK COMPANY",
-    "有效期限": "108/06/02",
+    "有效期限": "113/06/02",
     "廠商名稱": "優必樂有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02690"
   },
@@ -37240,7 +37175,7 @@
     "廠牌名稱": "炭息",
     "化學成分": "cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1- ylmethyl)-1,3-dioxolan-2-yl]phenyl-4-chlorophenyl ether",
     "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/06/09",
+    "有效期限": "113/06/09",
     "廠商名稱": "嘉農企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02691"
   },
@@ -37279,7 +37214,7 @@
     "廠牌名稱": "穩擋",
     "化學成分": "(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol",
     "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/06/15",
+    "有效期限": "113/06/15",
     "廠商名稱": "嘉農企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02693"
   },
@@ -37292,7 +37227,7 @@
     "廠牌名稱": "法-財如意",
     "化學成分": "N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide complex with manganese(II) chloride",
     "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-    "有效期限": "108/06/15",
+    "有效期限": "113/06/15",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02694"
   },
@@ -37318,7 +37253,7 @@
     "廠牌名稱": "炭無露ＳＣ",
     "化學成分": "tetrachloroisophthalonitrile",
     "國外原製造廠商": "HEXTAR CHEMICALS SDN. BHD.",
-    "有效期限": "108/06/22",
+    "有效期限": "113/06/22",
     "廠商名稱": "海博生技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02697"
   },
@@ -37370,7 +37305,7 @@
     "廠牌名稱": "草安寧",
     "化學成分": "ammonium-DL-homoalanin-4-yl(methyl)phosphinate",
     "國外原製造廠商": "GREEN FIELDS JOINT STOCK COMPANY",
-    "有效期限": "108/07/06",
+    "有效期限": "113/07/06",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02699"
   },
@@ -37409,7 +37344,7 @@
     "廠牌名稱": "莎霸",
     "化學成分": "isopropylamine salt of N-(phosphonomethyl)glycine",
     "國外原製造廠商": "IMASPRO BIOTECH SDN. BHD.",
-    "有效期限": "108/07/13",
+    "有效期限": "113/07/13",
     "廠商名稱": "高事達農化有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02701"
   },
@@ -37422,7 +37357,7 @@
     "廠牌名稱": "霸速達",
     "化學成分": "ammonium-DL-homoalanin-4-yl(methyl)phosphinate",
     "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/07/21",
+    "有效期限": "113/07/21",
     "廠商名稱": "嘉農企業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02702"
   },
@@ -37461,7 +37396,7 @@
     "廠牌名稱": "永春",
     "化學成分": "isopropylamine salt of N-(phosphonomethyl)glycine",
     "國外原製造廠商": "PT. BIOWORLD BIOSCIENCES MANUFACTURING INDUSTRIES",
-    "有效期限": "108/07/30",
+    "有效期限": "113/07/30",
     "廠商名稱": "松樹國際有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02705"
   },
@@ -37486,8 +37421,8 @@
     "英文名稱": "KRESOXIM-METHYL",
     "廠牌名稱": "法-財飽飽",
     "化學成分": "methyl (E)-methoxyimino[2-(o-tolyloxymethyl)phenyl]acetate",
-    "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/07/30",
+    "國外原製造廠商": "FUTAI JOINT STOCK COMPANY",
+    "有效期限": "113/07/30",
     "廠商名稱": "大成化學工業股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02706"
   },
@@ -37513,7 +37448,7 @@
     "廠牌名稱": "法-財朝富",
     "化學成分": "5-methyl-1,2,4-triazolo[3,4-b][1,3]benzothiazole",
     "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-    "有效期限": "108/08/11",
+    "有效期限": "113/08/11",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02707"
   },
@@ -37578,7 +37513,7 @@
     "廠牌名稱": "稻欉青",
     "化學成分": "(RS)-2-(2,4-dichlorophenyl)-1-(1H-1,2,4-triazol-1-yl) hexan-2-ol",
     "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-    "有效期限": "108/08/18",
+    "有效期限": "113/08/18",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02710"
   },
@@ -37591,7 +37526,7 @@
     "廠牌名稱": "虫嘸去",
     "化學成分": "a mixture containing 90% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,\r\n21R,24S)-6`-[(S)-sec-butyl]-21,24-dihydroxy-5`,11,13,22-tetramethyl-2-oxo-3,7,19\r\n-trioxatetracyclo[15.6.1.1^(4,8).0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-\r\n4-methylamino-α-L-lyxo-hexopyranosyl)-α-L-arabino-hexopyranoside benzoate and \r\n10% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,21R,24S)-21,24-dihydr\r\noxy-6`-isopropyl-5`,11,13,22-tetramethyl-2-oxo-3,7,19-trioxatetracyclo[15.6.1.1^(4,8).\r\n0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,\r\n6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-4-methylamino-α-L-lyxo-hexo\r\npyranosyl)-α-L-arabino-hexopyranoside benzoate",
     "國外原製造廠商": "KRISHI RASAYAN",
-    "有效期限": "108/08/18",
+    "有效期限": "113/08/18",
     "廠商名稱": "東鋒股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02711"
   },
@@ -37630,7 +37565,7 @@
     "廠牌名稱": "萬斬",
     "化學成分": "ammonium-DL-homoalanin-4-yl(methyl)phosphinate",
     "國外原製造廠商": "HOC MON STOCK COMPANY",
-    "有效期限": "108/08/24",
+    "有效期限": "113/08/24",
     "廠商名稱": "萬得發有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02713"
   },
@@ -37656,7 +37591,7 @@
     "廠牌名稱": "有錢途",
     "化學成分": "4-bromo-2-(4-chlorophenyl)-1-ethoxymethyl-5-trifluoromethylpyrrole-3-carbonitrile",
     "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-    "有效期限": "108/08/24",
+    "有效期限": "113/08/24",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02714"
   },
@@ -37682,7 +37617,7 @@
     "廠牌名稱": "豪友",
     "化學成分": "5-methyl-1,2,4-triazolo[3,4-b][1,3]benzothiazole",
     "國外原製造廠商": "JIA NON BIOTECH (VN) SHAREHOLDING COMPANY",
-    "有效期限": "108/09/09",
+    "有效期限": "113/09/09",
     "廠商名稱": "安旺特股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02715"
   },
@@ -37721,7 +37656,7 @@
     "廠牌名稱": "一度勇",
     "化學成分": ">80% avermectin B1a: 5-O-demethyl avermectin A1a            \r\n<20% avermectin B1b: 5-O-demethyl-25-de-(1-methylpropyl)-25-(1-methylethyl)avermectin A1a",
     "國外原製造廠商": "PT. BIOWORLD BIOSCIENCES MANUFACTURING INDUSTRIES",
-    "有效期限": "108/10/06",
+    "有效期限": "113/10/06",
     "廠商名稱": "松樹國際有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02718"
   },
@@ -37734,7 +37669,7 @@
     "廠牌名稱": "一定安",
     "化學成分": "1-(6-chloro-3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine",
     "國外原製造廠商": "HEXTAR CHEMICALS SDN. BHD.",
-    "有效期限": "108/10/07",
+    "有效期限": "113/10/07",
     "廠商名稱": "海博生技股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02719"
   },
@@ -37747,7 +37682,7 @@
     "廠牌名稱": "法-財蟲寶",
     "化學成分": "a mixture containing 90% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,\r\n21R,24S)-6`-[(S)-sec-butyl]-21,24-dihydroxy-5`,11,13,22-tetramethyl-2-oxo-3,7,19\r\n-trioxatetracyclo[15.6.1.1^(4,8).0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-\r\n4-methylamino-α-L-lyxo-hexopyranosyl)-α-L-arabino-hexopyranoside benzoate and \r\n10% of (10E,14E,16E,22Z)-(1R,4S,5`S,6S,6`R,8R,12S,13S,20R,21R,24S)-21,24-dihydr\r\noxy-6`-isopropyl-5`,11,13,22-tetramethyl-2-oxo-3,7,19-trioxatetracyclo[15.6.1.1^(4,8).\r\n0^(20,24)]pentacosa-10,14,16,22-tetraene-6-spiro-2`-(5`,6`-dihydro-2`H-pyran)-12-yl 2,\r\n6-dideoxy-3-O-methyl-4-O-(2,4,6-trideoxy-3-O-methyl-4-methylamino-α-L-lyxo-hexo\r\npyranosyl)-α-L-arabino-hexopyranoside benzoate",
     "國外原製造廠商": "THAI PHONG BUSINESS CO., LTD. DONG NAI BRANCH (THAI PHONG PESTICIDE FACTORY)",
-    "有效期限": "108/10/07",
+    "有效期限": "113/10/07",
     "廠商名稱": "法台貿易有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02720"
   },
@@ -38121,7 +38056,7 @@
     "中文名稱": "畢芬寧",
     "農藥代號": "I114",
     "英文名稱": "BIFENTHRIN",
-    "廠牌名稱": "双效星",
+    "廠牌名稱": "康真強",
     "化學成分": "2-methylbiphenyl-3-ylmethyl (Z)-(1RS,3RS)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate",
     "國外原製造廠商": "ADAMA MAKHTESHIM LTD.",
     "有效期限": "109/03/04",
@@ -39011,5 +38946,70 @@
     "有效期限": "110/04/26",
     "廠商名稱": "瑞繐股份有限公司",
     "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02791"
+  },
+  {
+    "許可證字": "農藥製",
+    "許可證號": "02792",
+    "中文名稱": "熱必斯",
+    "農藥代號": "F158",
+    "英文名稱": "PHTHALIDE",
+    "廠牌名稱": "保稻旺",
+    "化學成分": "4,5,6,7-TETRACHLOROPHTHALIDE",
+    "國外原製造廠商": null,
+    "有效期限": "110/06/27",
+    "廠商名稱": "台灣正豐植保股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02792"
+  },
+  {
+    "許可證字": "農藥製",
+    "許可證號": "02794",
+    "中文名稱": "毆蟎多",
+    "農藥代號": "A032",
+    "英文名稱": "PROPARGITE",
+    "廠牌名稱": "殺蟎能",
+    "化學成分": "2-(4-tert-butylphenoxy)cyclohexyl prop-2-ynyl sulfite",
+    "國外原製造廠商": null,
+    "有效期限": "110/06/27",
+    "廠商名稱": "台灣正豐植保股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02794"
+  },
+  {
+    "許可證字": "農藥進",
+    "許可證號": "02794",
+    "中文名稱": "益斯普",
+    "農藥代號": "I261",
+    "英文名稱": "ETHIPROLE",
+    "廠牌名稱": "轟天雷",
+    "化學成分": "5-amino-1-(2,6-dichloro-α,α,α-trifluoro-p-tolyl)-4- ethylsulfinylpyrazole-3-carbonitrile",
+    "國外原製造廠商": "BAYER CROPSCIENCE K. K.",
+    "有效期限": "110/04/26",
+    "廠商名稱": "台灣拜耳股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02794"
+  },
+  {
+    "許可證字": "農藥製",
+    "許可證號": "02795",
+    "中文名稱": "毆蟎多",
+    "農藥代號": "A032",
+    "英文名稱": "PROPARGITE",
+    "廠牌名稱": "殺蟎能",
+    "化學成分": "2-(4-tert-butylphenoxy)cyclohexyl prop-2-ynyl sulfite",
+    "國外原製造廠商": null,
+    "有效期限": "110/06/27",
+    "廠商名稱": "台灣正豐植保股份有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=02795"
+  },
+  {
+    "許可證字": "農藥進",
+    "許可證號": "02795",
+    "中文名稱": "剋安勃",
+    "農藥代號": "I252",
+    "英文名稱": "CHLORANTRANILIPROLE",
+    "廠牌名稱": "金靈海",
+    "化學成分": "3-bromo-4’-chloro-1-(3-chloro-2-pyridyl)-2’-methyl-6’-(methylcarbamoyl)pyrazole-5-carboxanilide",
+    "國外原製造廠商": "GOWAN MILLING COMPANY, L.L.C.",
+    "有效期限": "110/04/26",
+    "廠商名稱": "台灣富美實有限公司",
+    "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=20&lno=02795"
   }
 ]

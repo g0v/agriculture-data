@@ -58,6 +58,19 @@
     },
     {
       "許可證字": "農藥製",
+      "許可證號": "00294",
+      "中文名稱": "芬殺松",
+      "農藥代號": "I079",
+      "英文名稱": "FENTHION",
+      "廠牌名稱": "拜粒產",
+      "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
+      "國外原製造廠商": null,
+      "有效期限": "113/02/14",
+      "廠商名稱": "眾益農業生技股份有限公司",
+      "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00294"
+    },
+    {
+      "許可證字": "農藥製",
       "許可證號": "00375",
       "中文名稱": "芬殺松",
       "農藥代號": "I079",
@@ -117,7 +130,7 @@
       "廠牌名稱": "利滅松",
       "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
       "國外原製造廠商": null,
-      "有效期限": "108/08/31",
+      "有效期限": "113/08/31",
       "廠商名稱": "惠光股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00626"
     },
@@ -130,7 +143,7 @@
       "廠牌名稱": "利百山",
       "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
       "國外原製造廠商": null,
-      "有效期限": "108/08/31",
+      "有效期限": "113/08/31",
       "廠商名稱": "光華化學股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00719"
     },
@@ -143,7 +156,7 @@
       "廠牌名稱": "好拔蟲",
       "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
       "國外原製造廠商": null,
-      "有效期限": "108/07/01",
+      "有效期限": "113/07/01",
       "廠商名稱": "好速化學股份有限公司",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00904"
     },
@@ -182,7 +195,7 @@
       "廠牌名稱": null,
       "化學成分": "O,O-dimethyl O-4-methylthio-m-tolyl phosphorothioate",
       "國外原製造廠商": null,
-      "有效期限": "108/08/31",
+      "有效期限": "113/08/31",
       "廠商名稱": "中華民國農會附設各級農會農化廠",
       "農藥使用範圍": "http://data.coa.gov.tw:80/Service/OpenData/FromM/PesticideDetail.aspx?ltyp=10&lno=00973"
     },
