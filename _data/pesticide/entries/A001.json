@@ -3,20 +3,20 @@
 	"name": "三亞蟎",
 	"licenses": [
 		{
-			"許可證號": "00082",
-			"化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
-			"廠牌名稱": null,
-			"國外原製造廠商": "SHANGYU NUTRICHEM CO. LTD.",
-			"有效期限": "108/03/18",
-			"廠商名稱": "鴻勳國際企業有限公司"
-		},
-		{
 			"許可證號": "00679",
 			"化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
 			"廠牌名稱": "一掃螨",
 			"國外原製造廠商": "ARYSTA LIFESCIENCE KOREA LTD.",
 			"有效期限": "109/07/16",
 			"廠商名稱": "鴻勳國際企業有限公司"
+		},
+		{
+			"許可證號": "01131",
+			"化學成分": "N-methylbis(2,4-xylyliminomethyl)amine",
+			"廠牌名稱": null,
+			"國外原製造廠商": "BAILING AGROCHEMICAL CO., LTD.",
+			"有效期限": "113/05/01",
+			"廠商名稱": "台灣日產化工股份有限公司"
 		},
 		{
 			"許可證號": "01196",
@@ -125,7 +125,7 @@
 	],
 	"英文名稱": "AMITRAZ",
 	"作用機制": "[IRAC] 19",
-	"廠牌名稱": null,
+	"廠牌名稱": "一掃螨",
 	"通過日期": null,
 	"usages": [
 		{

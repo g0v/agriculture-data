@@ -3,14 +3,6 @@
 	"name": "福瑞松",
 	"licenses": [
 		{
-			"許可證號": "00050",
-			"化學成分": "O,O-diethyl S-ethylthiomethyl phosphorodithioate",
-			"廠牌名稱": "賽滅得",
-			"國外原製造廠商": "AMVAC CHEMICAL CORPORATION",
-			"有效期限": "108/05/22",
-			"廠商名稱": "達通國際興業有限公司"
-		},
-		{
 			"許可證號": "00174",
 			"化學成分": "O,O-diethyl S-ethylthiomethyl phosphorodithioate",
 			"廠牌名稱": null,
@@ -117,7 +109,7 @@
 	],
 	"英文名稱": "PHORATE",
 	"作用機制": "[IRAC] 1B",
-	"廠牌名稱": "賽滅得",
+	"廠牌名稱": null,
 	"通過日期": null,
 	"usages": [
 		{

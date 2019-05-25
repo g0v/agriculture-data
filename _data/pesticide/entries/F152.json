@@ -5,10 +5,18 @@
 		{
 			"許可證號": "00510",
 			"化學成分": "N-propyl-N-[2(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide",
-			"廠牌名稱": "包哩賀",
+			"廠牌名稱": null,
 			"國外原製造廠商": "PT BINA GUNA KIMIA",
 			"有效期限": "109/03/01",
-			"廠商名稱": "國際技術社股份有限公司"
+			"廠商名稱": "台灣富美實有限公司"
+		},
+		{
+			"許可證號": "01134",
+			"化學成分": "N-propyl-N-[2(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide",
+			"廠牌名稱": null,
+			"國外原製造廠商": "NANJING RED SUN CO., LTD.",
+			"有效期限": "113/05/08",
+			"廠商名稱": "安旺特股份有限公司"
 		},
 		{
 			"許可證號": "01535",
@@ -109,7 +117,7 @@
 	],
 	"英文名稱": "PROCHLORAZ",
 	"作用機制": "[FRAC] 3, G1",
-	"廠牌名稱": "包哩賀",
+	"廠牌名稱": null,
 	"通過日期": null,
 	"usages": [
 		{

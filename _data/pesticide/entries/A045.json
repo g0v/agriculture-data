@@ -3,14 +3,6 @@
 	"name": "阿納寧",
 	"licenses": [
 		{
-			"許可證號": "00594",
-			"化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R-cis)-2,2-dimethyl-3-[2-(2,2,2-trifluoro-1-trifluoromethylethoxycarbonyl)vinyl]cyclopropanecarboxylate",
-			"廠牌名稱": null,
-			"國外原製造廠商": "BAYER VAPI PRIVATE LIMITED",
-			"有效期限": "108/05/11",
-			"廠商名稱": "台灣富美實有限公司"
-		},
-		{
 			"許可證號": "01782",
 			"化學成分": "(S)-α-cyano-3-phenoxybenzyl (Z)-(1R-cis)-2,2-dimethyl-3-[2-(2,2,2-trifluoro-1-trifluoromethylethoxycarbonyl)vinyl]cyclopropanecarboxylate",
 			"廠牌名稱": "金正發",
@@ -21,7 +13,7 @@
 	],
 	"英文名稱": "ACRINATHRIN",
 	"作用機制": "[IRAC] 3A",
-	"廠牌名稱": null,
+	"廠牌名稱": "金正發",
 	"通過日期": null,
 	"usages": [
 		{

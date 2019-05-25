@@ -3,14 +3,6 @@
 	"name": "護矽得",
 	"licenses": [
 		{
-			"許可證號": "01073",
-			"化學成分": "bis(4-fluorophenyl)(methyl)(1H-1,2,4-triazol-1-ylmethyl)silane",
-			"廠牌名稱": "新星",
-			"國外原製造廠商": "DU PONT DE NEMOURS (FRANCE) S. A. S.",
-			"有效期限": "108/03/27",
-			"廠商名稱": "台灣杜邦股份有限公司"
-		},
-		{
 			"許可證號": "02476",
 			"化學成分": "bis(4-fluorophenyl)(methyl)(1H-1,2,4-triazol-1-ylmethyl)silane",
 			"廠牌名稱": "威星",
@@ -29,7 +21,7 @@
 	],
 	"英文名稱": "FLUSILAZOLE",
 	"作用機制": "[FRAC] 3, G1",
-	"廠牌名稱": "新星",
+	"廠牌名稱": "威星",
 	"通過日期": null,
 	"usages": [
 		{
