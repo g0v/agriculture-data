@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "devDependencies": {
     "async": "^0.9.0",
+    "axios": "^0.18.0",
     "collections": "^1.1.0",
     "fs-extra": "^7.0.1",
     "gulp": "^3.5.2",
@@ -11,6 +12,7 @@
     "gulp-uglify": "^0.2.1",
     "gulp-util": "^2.2.14",
     "prelude-ls": "^1.1.1",
+    "ramda": "^0.26.1",
     "request": "^2.34.0",
     "rsvp": "^3.0.17",
     "streamy-data": ">=0.2.2",
@@ -21,8 +23,5 @@
     "type": "git",
     "url": "git://github.com/g0v/agriculture.git"
   },
-  "dependencies": {
-    "axios": "^0.18.0",
-    "ramda": "^0.26.1"
-  }
+  "dependencies": {}
 }
