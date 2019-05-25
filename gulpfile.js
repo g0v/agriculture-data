@@ -106,7 +106,6 @@ gulp.task('data.download.pesticide', function (callback) {
             .then(delay(500))
             .then(saveEntry)
             .then(toIndexItem);
-          console.log(item.name);
           items.push(item);
         } catch (e) {
           console.error(e);
