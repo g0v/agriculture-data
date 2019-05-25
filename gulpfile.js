@@ -196,6 +196,8 @@ gulp.task('data.build.pesticide', function (callback) {
             id = lic['農藥代號'];
             entry = m[id];
 
+            if (!entry) return;
+
             copyIfAbsent(entry, lic, '英文名稱');
             // the composition ratio might be different per license
             //copyIfAbsent(entry, lic, '化學成分');
